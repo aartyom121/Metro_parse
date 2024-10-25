@@ -1,1154 +1,1538 @@
 [
     {
-        "Name": "METRO Chef Мороженое Пломбир ванильный, 2.5кг",
-        "Price": "1299",
-        "Old price": "1299",
-        "Link": "https://online.metro-cc.ru/products/plombir-vanilnyj-metro-chef-25kg"
-    },
-    {
-        "Name": "aro Мороженое ванильное, 1кг",
-        "Price": "246",
-        "Old price": "246",
-        "Link": "https://online.metro-cc.ru/products/aro-morozhenoe-vanilnoe-1kg"
-    },
-    {
-        "Name": "METRO Chef Мороженое Пломбир шоколадный с шоколадной крошкой, 2.5кг",
-        "Price": "1229",
-        "Old price": "1229",
-        "Link": "https://online.metro-cc.ru/products/plombir-shokoladnyj-s-shokoladnoj-kroshkoj-metro-chef-25kg"
-    },
-    {
-        "Name": "METRO Chef Мороженое Пломбир соленая карамель, 1.5кг",
-        "Price": "649",
-        "Old price": "649",
-        "Link": "https://online.metro-cc.ru/products/plombir-metro-chef-solenaya-karamel-15kg"
-    },
-    {
-        "Name": "METRO Chef Мороженое Пломбир с кусочками клубники, 2.5кг",
-        "Price": "1309",
-        "Old price": "1309",
-        "Link": "https://online.metro-cc.ru/products/plombir-s-kusochkami-klubniki-metro-chef-25kg"
-    },
-    {
-        "Name": "METRO Chef Мороженое Пломбир вишневый, 2.5кг",
-        "Price": "1319",
-        "Old price": "1319",
-        "Link": "https://online.metro-cc.ru/products/plombir-metro-chef-vishnevyj-bez-soderzhaniya-molochnogo-zhira-25kg"
-    },
-    {
-        "Name": "Мороженое Золотой стандарт Пломбир суфле и шоколадным наполнителем контейнер, 475г",
-        "Price": "499",
-        "Old price": "499",
-        "Link": "https://online.metro-cc.ru/products/plombir-zolotoj-standart-shokoladnyj-kontejner-500g-bzmzh"
-    },
-    {
-        "Name": "METRO Chef Мороженое сливочное с ароматом фисташки и орехом миндаль, 1.5кг",
-        "Price": "899",
-        "Old price": "899",
-        "Link": "https://online.metro-cc.ru/products/plombir-metro-chef-fistashka-15kg"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки Пломбир шоколадный вафельный стаканчик, 100г",
-        "Price": "84.90",
-        "Old price": "99.90",
-        "Link": "https://online.metro-cc.ru/products/plombir-korovka-iz-korenovki-shokolad-vafelnyj-stakanchik-100g-bzmzh"
-    },
-    {
-        "Name": "aro Мороженое с ароматом клубники, 1кг",
-        "Price": "246",
-        "Old price": "246",
-        "Link": "https://online.metro-cc.ru/products/aro-morozhenoe-s-aromatom-klubniki-1kg"
-    },
-    {
-        "Name": "Мороженое Чистая Линия волшебный фонарь, 80г",
-        "Price": "167",
-        "Old price": "167",
-        "Link": "https://online.metro-cc.ru/products/80g-morozhenoe-chistaya-liniya-volshebnyy-fonar-bzmzh"
-    },
-    {
-        "Name": "aro Мороженое шоколад, 1кг",
-        "Price": "246",
-        "Old price": "246",
-        "Link": "https://online.metro-cc.ru/products/aro-morozhenoe-shokolad-1kg"
-    },
-    {
-        "Name": "Мороженое Monterra Бельгийский шоколад, 276г",
-        "Price": "529",
-        "Old price": "529",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-belgiyskiy-shokolad-276g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Monterra Грецкий орех с кленовым сиропом, 298г",
-        "Price": "529",
-        "Old price": "529",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-klenovyy-sirop-gretskiy-oreh-298g-bzmzh"
-    },
-    {
-        "Name": "METRO Chef Мороженое Пломбир крем-брюле, 2.5кг",
-        "Price": "1269",
-        "Old price": "1269",
-        "Link": "https://online.metro-cc.ru/products/plombir-metro-chef-krem-bryule-bez-soderzhaniya-molochnogo-zhira-25kg"
-    },
-    {
-        "Name": "Мороженое Золотой стандарт Пломбир с черникой контейнер, 475г",
-        "Price": "499",
-        "Old price": "499",
-        "Link": "https://online.metro-cc.ru/products/plombir-zolotoj-standart-s-chernikoj-kontejner-500g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Айсберри Филевский Пломбир пачка, 450г",
-        "Price": "309",
-        "Old price": "309",
-        "Link": "https://online.metro-cc.ru/products/plombir-ajsberri-filevskij-pachka-450g"
-    },
-    {
-        "Name": "Мороженое Gelato Di Natura вишня, 1.575кг",
-        "Price": "1929",
-        "Old price": "1929",
-        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-vishnya-kontejner-15kg"
-    },
-    {
-        "Name": "METRO Chef Мороженое Пломбир ванильный, 500г",
-        "Price": "329",
-        "Old price": "329",
-        "Link": "https://online.metro-cc.ru/products/500g-plombir-metro-chef-vanil-vanna-bzmzh"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки Пломбир 15%, 1кг",
-        "Price": "739",
-        "Old price": "739",
-        "Link": "https://online.metro-cc.ru/products/korovka-iz-korenovki-plombir-15-1kg-bzmzh"
-    },
-    {
-        "Name": "Мороженое Чистая Линия трубочка ваниль-глазурь, 70г",
-        "Price": "86.90",
-        "Old price": "108",
-        "Link": "https://online.metro-cc.ru/products/70g-morozhenoe-chistaya-liniya-trubochka-vanglazur-bzmzh"
-    },
-    {
-        "Name": "Чай Nordictea апельсин-лемонграсс-клубника замороженный, 50г",
-        "Price": "124",
-        "Old price": "124",
-        "Link": "https://online.metro-cc.ru/products/chaj-nordictea-apelsin-lemongrass-klubnika-50g"
-    },
-    {
-        "Name": "METRO Chef Мороженое Лаймовый сорбет замороженный, 1.5кг",
-        "Price": "1059",
-        "Old price": "1059",
-        "Link": "https://online.metro-cc.ru/products/15kg-sorbet-metro-chef-laym-zamorozhennyy"
-    },
-    {
-        "Name": "Мороженое пломбир А.Ростагрокомплекс Эскимо с соленой карамелью в молочном шоколаде с дробленым миндалем 15%, 65г",
-        "Price": "113",
-        "Old price": "113",
-        "Link": "https://online.metro-cc.ru/products/65g-morozhen-eskimo-arostagrokompleks-sol-karam-bzmzh"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки Пломбир полено с шоколадной стружкой, 400г",
-        "Price": "349",
-        "Old price": "349",
-        "Link": "https://online.metro-cc.ru/products/poleno-korovka-iz-korenovki-plombir-s-shokoladnoj-struzhkoj-400g-bzmzh"
-    },
-    {
-        "Name": "RIOBA Мороженое Пломбир соленая карамель, 75г",
-        "Price": "92.90",
-        "Old price": "92.90",
-        "Link": "https://online.metro-cc.ru/products/75g-plombir-rioba-solyon-karam-bzmzh"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки Пломбир вафельный стаканчик, 100г",
-        "Price": "79.90",
-        "Old price": "99.90",
-        "Link": "https://online.metro-cc.ru/products/plombir-korovka-iz-korenovki-vafelnyj-stakanchik-100g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки Пломбир крем-брюле вафельный стаканчик, 100г",
-        "Price": "79.90",
-        "Old price": "99.90",
-        "Link": "https://online.metro-cc.ru/products/plombir-korovka-iz-korenovki-krem-bryule-vafelnyj-stakanchik-100g-bzmzh"
-    },
-    {
-        "Name": "Мороженое пломбир А.Ростагрокомплекс Эскимо с голубикой и ежевикой в молочном шоколаде 15%, 65г",
-        "Price": "113",
-        "Old price": "113",
-        "Link": "https://online.metro-cc.ru/products/65g-morozhen-eskimo-arostagrokompleks-golubika-bzmzh"
-    },
-    {
-        "Name": "Мороженое Золотой стандарт Пломбир классический полено, 990г",
-        "Price": "569",
-        "Old price": "569",
-        "Link": "https://online.metro-cc.ru/products/plombir-zolotoj-standart-klassicheskij-poleno-900g-bzmzh"
-    },
-    {
-        "Name": "Чай Nordictea вишневый глинтвейн замороженный, 50г",
-        "Price": "124",
-        "Old price": "124",
-        "Link": "https://online.metro-cc.ru/products/chaj-nordictea-vishnevyj-glintvejn-50g"
-    },
-    {
-        "Name": "Мороженое Monterra Манго-Сливки, 281г",
-        "Price": "529",
-        "Old price": "529",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-mango-krem-281g-bzmzh"
-    },
-    {
-        "Name": "RIOBA Мороженое сливочное мятное с шоколадом, 75г",
-        "Price": "99.90",
-        "Old price": "99.90",
-        "Link": "https://online.metro-cc.ru/products/75g-slivochn-rioba-myata-shokol-bzmzh"
-    },
-    {
-        "Name": "Мороженое 48 копеек Пломбир брикет, 210г",
-        "Price": "169",
-        "Old price": "169",
-        "Link": "https://online.metro-cc.ru/products/48-kopeek-plombir-briket-bez-zamenitelya-molochnogo-zhira-210-g"
-    },
-    {
-        "Name": "Мороженое Gelato Di Natura молочное маскарпоне, 1.575кг",
-        "Price": "1929",
-        "Old price": "1929",
-        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-maskarpone-kontejner-1575kg"
-    },
-    {
-        "Name": "Мороженое Bounty с кокосовой стружкой и шоколадной глазурью, 272г",
-        "Price": "579",
-        "Old price": "579",
-        "Link": "https://online.metro-cc.ru/products/272g-morozhenoe-bounty-vederko-bzmzh"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки Пломбир с шоколадной крошкой стакан, 80г",
-        "Price": "99.90",
-        "Old price": "99.90",
-        "Link": "https://online.metro-cc.ru/products/80g-plombir-korovka-iz-korenovki-shok-krosh-stakan-bzmzh"
-    },
-    {
-        "Name": "Мороженое Филевское лакомка сливочное ванильное во взбитой шоколадной глазури, 90г",
-        "Price": "65.90",
-        "Old price": "65.90",
-        "Link": "https://online.metro-cc.ru/products/filevskaya-lakomka-ajsberri-slivochnaya-90-g"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки Пломбир Полено, 400г",
-        "Price": "319",
-        "Old price": "319",
-        "Link": "https://online.metro-cc.ru/products/korovka-iz-korenovki-plombir-poleno-400g-bzmzh"
-    },
-    {
-        "Name": "Чай Nordictea апельсин-облепиха-жмых замороженный, 50г",
-        "Price": "124",
-        "Old price": "124",
-        "Link": "https://online.metro-cc.ru/products/chaj-nordictea-apelsin-oblepihazhmyh-50g"
-    },
-    {
-        "Name": "RIOBA Мороженое сливочное клубника со сливками, 75г",
-        "Price": "92.90",
-        "Old price": "92.90",
-        "Link": "https://online.metro-cc.ru/products/75g-slivochn-rioba-klubn-slivk-bzmzh"
-    },
-    {
-        "Name": "Мороженое Monterra Фисташковое, 287г",
-        "Price": "529",
-        "Old price": "529",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-fistashka-287g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Sunreme со вкусом малины и банана, 78г",
-        "Price": "103",
-        "Old price": "103",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-sunreme-malina-banan-78g-bzmzh"
-    },
-    {
-        "Name": "Мороженое 48 копеек манго со сливками 6%, 241г",
-        "Price": "169",
-        "Old price": "169",
-        "Link": "https://online.metro-cc.ru/products/241g-morozhenoe-6-48-kopeek-mango-so-slivkami-bzmzh"
-    },
-    {
-        "Name": "Мороженое Чистая Линия Эскимо Пломбир малиновый кактус, 80г",
-        "Price": "165",
-        "Old price": "165",
-        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-malinovyj-kaktus-bzmzh-80-g"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки Эскимо Пломбир в шоколадной глазури, 70г",
-        "Price": "90.90",
-        "Old price": "90.90",
-        "Link": "https://online.metro-cc.ru/products/plombir-korovka-iz-korenovki-v-shokoladnoj-glazuri-eskimo-70g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Monterra Малина-Клубника сорбет, 306г",
-        "Price": "529",
-        "Old price": "529",
-        "Link": "https://online.metro-cc.ru/products/sorbet-monterra-malina-klubnika-306g"
-    },
-    {
-        "Name": "Мороженое эскимо А.Ростагрокомплекс Клубника-базилик 15%, 65г",
-        "Price": "113",
-        "Old price": "113",
-        "Link": "https://online.metro-cc.ru/products/65g-morozh-eskimo-15-arostagrokompleks-klubnbazilik-bzmzh"
-    },
-    {
-        "Name": "Мороженое Магнат Double Фисташка в формате пинты с кусочками настоящего шоколада, 300г",
-        "Price": "619",
-        "Old price": "619",
-        "Link": "https://online.metro-cc.ru/products/300g-morozhenoe-magnat-dabl-fistashka-bzmzh"
-    },
-    {
-        "Name": "Мороженое Amore Изысканная горгонзола, 250г",
-        "Price": "429",
-        "Old price": "429",
-        "Link": "https://online.metro-cc.ru/products/amore-izyskannaya-gorgonzola-bez-zamenitelya-molochnyh-zhirov-270-g"
-    },
-    {
-        "Name": "Мороженое Русский Холод Юбилейное ванильное, 1кг",
-        "Price": "399",
-        "Old price": "399",
-        "Link": "https://online.metro-cc.ru/products/plombir-russkij-holod-yubilejnoe-vanilnoe-flou-pak-1kg"
-    },
-    {
-        "Name": "Мороженое 48 копеек Брикет Шоколадное с шоколадным соусом, 232г",
-        "Price": "169",
-        "Old price": "169",
-        "Link": "https://online.metro-cc.ru/products/48-kopeek-s-shokoladnym-sousom-briket-232-g"
-    },
-    {
-        "Name": "METRO Chef Мороженое Манго сорбет замороженный, 1.5кг",
-        "Price": "1059",
-        "Old price": "1059",
-        "Link": "https://online.metro-cc.ru/products/15kg-sorbet-metro-chef-mango-zamorozhennyy"
-    },
-    {
-        "Name": "Чай Айскро малина-клубника-базилик-корица замороженный, 150г",
-        "Price": "205",
-        "Old price": "205",
-        "Link": "https://online.metro-cc.ru/products/chaj-malino-klubnichnyj-ajskro-s-bazilikom-koricej-zamorozhennyj-150-g"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки Лакомка крем-брюле 15%, 90г",
-        "Price": "114",
-        "Old price": "114",
-        "Link": "https://online.metro-cc.ru/products/90g-morozh-15-korovka-iz-korenovki-lakomka-krem-bryule-bzmzh"
-    },
-    {
-        "Name": "Мороженое Amore Карамель с морской солью, 250г",
-        "Price": "359",
-        "Old price": "359",
-        "Link": "https://online.metro-cc.ru/products/amore-karamel-s-morskoj-solyu-bez-zamenitelya-molochnyh-zhirov-270-g"
-    },
-    {
-        "Name": "METRO Chef Мороженое Черносмородиновый щербет, 1.5кг",
-        "Price": "779",
-        "Old price": "779",
-        "Link": "https://online.metro-cc.ru/products/scherbet-metro-chef-chernaya-smorodina-15kg"
-    },
-    {
-        "Name": "Мороженое Золотой стандарт классическое в вафельном стаканчике, 95г",
-        "Price": "59.90",
-        "Old price": "77.90",
-        "Link": "https://online.metro-cc.ru/products/95g-morozhenoe-zolotoy-standart-klassich-vafst-bzmzh"
-    },
-    {
-        "Name": "Мороженое Monterra Ванильное, 252г",
-        "Price": "529",
-        "Old price": "529",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-vanil-252g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Monterra Печенье с карамелью, 298г",
-        "Price": "529",
-        "Old price": "529",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-pechene-karamel-298g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки ваниль-глазурь, 90г",
-        "Price": "114",
-        "Old price": "114",
-        "Link": "https://online.metro-cc.ru/products/90g-morozhenoe-korovka-iz-korenovki-vanilglazur-bzmzh"
-    },
-    {
-        "Name": "RIOBA Мороженое Манго-маракуйя сорбет без сахара, 75г",
-        "Price": "119",
-        "Old price": "119",
-        "Link": "https://online.metro-cc.ru/products/75g-sorbet-rioba-mango-marakujya"
-    },
-    {
-        "Name": "Мороженое Магнат эскимо в шоколаде Шоколадный трюфель, 72г",
-        "Price": "153",
-        "Old price": "153",
-        "Link": "https://online.metro-cc.ru/products/vanilnoe-magnat-shokoladnyj-tryufel-eskimo-80g-bzmzh"
-    },
-    {
-        "Name": "METRO Chef Мороженое Малиновый сорбет замороженный, 1.5кг",
-        "Price": "1299",
-        "Old price": "1299",
-        "Link": "https://online.metro-cc.ru/products/15kg-sorbet-metro-chef-malina-zamorozhennyy"
-    },
-    {
-        "Name": "Мороженое Магнат Double Шоколад в формате пинты с кусочками настоящего шоколада, 310г",
-        "Price": "619",
-        "Old price": "619",
-        "Link": "https://online.metro-cc.ru/products/310g-morozhenoe-magnat-dabl-shokolad-bzmzh"
-    },
-    {
-        "Name": "Чай Nordictea клюква-бадьян-апельсин замороженный, 50г",
-        "Price": "124",
-        "Old price": "124",
-        "Link": "https://online.metro-cc.ru/products/chaj-nordictea-klyukva-badyan-apelsin-50g"
-    },
-    {
-        "Name": "RIOBA Мороженое Пломбир бельгийский шоколад, 75г",
-        "Price": "114",
-        "Old price": "114",
-        "Link": "https://online.metro-cc.ru/products/75g-plombir-rioba-belgijsk-shok-bzmzh"
-    },
-    {
-        "Name": "Мороженое Чистая Линия Семейное Пломбир, 450г",
-        "Price": "479",
-        "Old price": "479",
-        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-semejnoe-pachka-450g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Brandice Миндально-фисташковое, 600г",
-        "Price": "529",
-        "Old price": "739",
-        "Link": "https://online.metro-cc.ru/products/600g-morozhenoe-brandice-mindalfistashka-bzmzh"
-    },
-    {
-        "Name": "Мороженое Чистая Линия Пломбир вафельный стаканчик, 80г",
-        "Price": "99.90",
-        "Old price": "99.90",
-        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-vafelnyj-stakanchik-80g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Brandice Волшебные леденцы, 550г",
-        "Price": "529",
-        "Old price": "739",
-        "Link": "https://online.metro-cc.ru/products/550g-morozhenoe-brandice-volshebnye-ledentsy-bzmzh"
-    },
-    {
+        "ID": "218345",
         "Name": "Мороженое Brandice Пралине, 600г",
+        "Brand": "BRANDICE",
         "Price": "529",
         "Old price": "739",
         "Link": "https://online.metro-cc.ru/products/600g-morozhenoe-brandice-praline-bzmzh"
     },
     {
-        "Name": "Мороженое Магнат эскимо в шоколаде Эйфория Маскарпоне-Голубика, 70г",
-        "Price": "153",
-        "Old price": "153",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-eskimo-magnat-eyforiya-maskarpone-golubika-v-shokolade-8-70g"
+        "ID": "452290",
+        "Name": "Мороженое Коровка из Кореновки Пломбир крем-брюле вафельный стаканчик, 100г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "79.90",
+        "Old price": "99.90",
+        "Link": "https://online.metro-cc.ru/products/plombir-korovka-iz-korenovki-krem-bryule-vafelnyj-stakanchik-100g-bzmzh"
     },
     {
-        "Name": "Мороженое Магнат эскимо в шоколаде Манго-Красные ягоды, 74г",
-        "Price": "153",
-        "Old price": "153",
-        "Link": "https://online.metro-cc.ru/products/magnat-eskimo-v-shokolade-mango-krasnye-yagody-74-gr"
-    },
-    {
-        "Name": "Мороженое Талосто Классическая Венеция Пломбир ванильный пачка, 450г",
-        "Price": "287",
-        "Old price": "287",
-        "Link": "https://online.metro-cc.ru/products/plombir-talosto-veneciya-klassicheskaya-vanilnyj-pachka-450g-bzmzh"
-    },
-    {
-        "Name": "METRO Chef Мороженое Пломбир с ароматом фисташки, 500г",
-        "Price": "329",
-        "Old price": "329",
-        "Link": "https://online.metro-cc.ru/products/500g-plombir-metro-chef-arom-fist-vanna-bzmzh"
-    },
-    {
-        "Name": "METRO Chef Мороженое Пломбир шоколадный, 500г",
-        "Price": "329",
-        "Old price": "329",
-        "Link": "https://online.metro-cc.ru/products/500g-plombir-metro-chef-shokolad-vanna-bzmzh"
-    },
-    {
-        "Name": "Мороженое Oreo Сэндвич Ванильное с кусочками печенья, 76г",
-        "Price": "109",
-        "Old price": "109",
-        "Link": "https://online.metro-cc.ru/products/oreo-s-pechenyem-76g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Сэндвич Чистая Линия ванильное в печенье, 90г",
-        "Price": "162",
-        "Old price": "162",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-sendvich-chistaya-liniya-vanilnoe-v-pechene-90g"
-    },
-    {
-        "Name": "Мороженое Brandice шоколадное, 550г",
-        "Price": "529",
-        "Old price": "739",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-brandice-shokoladnoe-550g"
-    },
-    {
-        "Name": "Мороженое Gelato Di Natura тирамису, 1.575кг",
-        "Price": "1869",
-        "Old price": "1869",
-        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-tiramisu-kontejner-15kg"
-    },
-    {
-        "Name": "Мороженое Gelato Di Natura панна-котта, 1.575кг",
-        "Price": "1929",
-        "Old price": "1929",
-        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-panna-kotta-kontejner-15kg"
-    },
-    {
-        "Name": "Мороженое эскимо Чистая Линия Ванильное с арахисом в шоколадной глазури, 80г",
-        "Price": "143",
-        "Old price": "143",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-eskimo-chistaya-liniya-vanilnoe-s-arahisom-v-shokoladnoy-glazuri-80g"
-    },
-    {
-        "Name": "Мороженое Amore Альфонсо манго, 250г",
-        "Price": "429",
-        "Old price": "429",
-        "Link": "https://online.metro-cc.ru/products/amore-mango-alfonso-bez-zamenitelya-molochnyh-zhirov-270-g"
-    },
-    {
-        "Name": "Мороженое Магнат Double Соленая карамель в формате пинты с кусочками настоящего шоколада, 310г",
-        "Price": "619",
-        "Old price": "619",
-        "Link": "https://online.metro-cc.ru/products/310g-morozhenoe-magnat-dabl-solyonaya-karamel-bzmzh"
-    },
-    {
-        "Name": "Мороженое Oreo Рожок Ванильное с кусочками печенья, 72г",
-        "Price": "124",
-        "Old price": "124",
-        "Link": "https://online.metro-cc.ru/products/oreo-s-droblenym-pechenyem-rozhok-bez-zamenitelya-molochnogo-zhira-73-g"
-    },
-    {
-        "Name": "Мороженое Золотой стандарт Пломбир натуральный контейнер, 475г",
-        "Price": "499",
-        "Old price": "499",
-        "Link": "https://online.metro-cc.ru/products/plombir-zolotoj-standart-naturalnyj-kontejner-500g-bzmzh"
-    },
-    {
-        "Name": "Мороженое пломбир Золотой стандарт Крем-брюле в вафельном стаканчике 12%, 90г",
-        "Price": "59.90",
-        "Old price": "77.90",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-plombir-zolotoy-standart-krem-bryule-v-vafelnom-stakanchike-12-90g"
-    },
-    {
-        "Name": "Мороженое Золотой стандарт черника в вафельном стаканчике, 93г",
-        "Price": "59.90",
-        "Old price": "77.90",
-        "Link": "https://online.metro-cc.ru/products/93g-morozhenoe-zolotoy-standart-chernika-vafst-bzmzh"
-    },
-    {
-        "Name": "Мороженое Oreo сливочное с кусочками печенья, 263г",
-        "Price": "499",
-        "Old price": "499",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-slivochnoe-oreo-s-kusochkami-pechenya-vederko-263g"
-    },
-    {
-        "Name": "Мороженое Sweet Moon Mochi Ice Cream сливочное в рисовой глазури с кусочками персика и маракуйи (35г х 8шт), 300г",
-        "Price": "799",
-        "Old price": "799",
-        "Link": "https://online.metro-cc.ru/products/modzhi-iceumi-mochi-persik-marakujya-v-upakovke-8h35g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Чистая Линия Московская Лакомка Пломбир, 80г",
-        "Price": "155",
-        "Old price": "155",
-        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-moskovskaya-lakomka-batonchik-80g-bzmzh"
-    },
-    {
-        "Name": "RIOBA Мороженое Малиновый сорбет, 75г",
-        "Price": "111",
-        "Old price": "111",
-        "Link": "https://online.metro-cc.ru/products/75g-sorbet-rioba-malinovyj"
-    },
-    {
-        "Name": "RIOBA Мороженое кофе с печеньем амаретти, 75г",
-        "Price": "92.90",
-        "Old price": "92.90",
-        "Link": "https://online.metro-cc.ru/products/75g-rioba-kofe-s-peche-amaret-bzmzh"
-    },
-    {
-        "Name": "Мороженое 48 копеек Манго со сливками в вафельном стаканчике, 94г",
-        "Price": "116",
-        "Old price": "116",
-        "Link": "https://online.metro-cc.ru/products/94g-48-kopeek-mango-stakanchik-bzmzh"
-    },
-    {
-        "Name": "Чай Айскро облепиха-лимон-имбирь-бадьян-лемонграсс замороженный, 150г",
-        "Price": "205",
-        "Old price": "205",
-        "Link": "https://online.metro-cc.ru/products/chaj-ajskro-s-oblepihoj-limonom-imbirem-badyanom-lemongrassom-zamorozhennyj-150-g"
-    },
-    {
-        "Name": "Мороженое молочное Amore с греческим йогуртом, 300мл",
-        "Price": "299",
-        "Old price": "429",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-molochnoe-amore-s-grecheskim-yogurtom-300ml"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки с малиной в вафельном стаканчике 15%, 100г",
-        "Price": "119",
-        "Old price": "119",
-        "Link": "https://online.metro-cc.ru/products/100g-morozh-15-korovka-iz-korenovki-s-malinoy-vafst-bzmzh"
-    },
-    {
-        "Name": "Мороженое Чистая Линия Пломбироешка пломбир ванильный контейнер, 450г",
-        "Price": "609",
-        "Old price": "609",
-        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-plombiroeshka-vanilnoe-kontejner-450g-bzmzh"
-    },
-    {
-        "Name": "RIOBA Мороженое Манго-груша сорбет, 75г",
-        "Price": "111",
-        "Old price": "111",
-        "Link": "https://online.metro-cc.ru/products/75g-sorbet-rioba-mango-grusha"
-    },
-    {
-        "Name": "Мороженое Вологодский пломбир в вафельном стаканчике 15%, 100г",
-        "Price": "89.90",
-        "Old price": "89.90",
-        "Link": "https://online.metro-cc.ru/products/plombir-ajsberri-vologodskij-vafelnyj-stakanchik-100g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Магнат эскимо в шоколаде покрытое хрустящими орешками Брюнетка, 74г",
-        "Price": "153",
-        "Old price": "153",
-        "Link": "https://online.metro-cc.ru/products/magnat-bryunetka-eskimo-82g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Monterra Шоколадно-вишневый торт, 300г",
-        "Price": "529",
-        "Old price": "529",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-vishnevyy-tort-300g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Monterra Тирамису, 277г",
-        "Price": "529",
-        "Old price": "529",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-tiramisu-277g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки Лакомка черная смородина 15%, 90г",
-        "Price": "129",
-        "Old price": "129",
-        "Link": "https://online.metro-cc.ru/products/90g-morozh-15-korovka-iz-korenovki-lakomka-chern-smorod-bzmzh"
-    },
-    {
-        "Name": "Мороженое пломбир 48 копеек с натуральной малиной в вафельном стаканчике, 88г",
-        "Price": "89.90",
-        "Old price": "89.90",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-plombir-48-kopeek-s-naturalnoy-malinoy-v-vafelnom-stakanchike-88g"
-    },
-    {
-        "Name": "Мороженое Milka Эскимо Сливочное с лесными ягодами, 64г",
-        "Price": "144",
-        "Old price": "144",
-        "Link": "https://online.metro-cc.ru/products/64g-milka-lesnye-yagody-bzmzh"
-    },
-    {
-        "Name": "aro Мороженое с ароматом фисташки, 1кг",
+        "ID": "497873",
+        "Name": "aro Мороженое шоколад, 1кг",
+        "Brand": "ARO",
         "Price": "246",
         "Old price": "246",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-aro-fistashkovoe-1000g"
+        "Link": "https://online.metro-cc.ru/products/aro-morozhenoe-shokolad-1kg"
     },
     {
-        "Name": "Мороженое Чистая Линия Пломбир в вафлях брикет, 80г",
-        "Price": "105",
-        "Old price": "105",
-        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-na-vaflyah-briket-80g-bzmzh"
-    },
-    {
-        "Name": "aro Мороженое ванильное вафельный стаканчик, 70г",
-        "Price": "19.09",
-        "Old price": "19.09",
-        "Link": "https://online.metro-cc.ru/products/vanilnoe-aro-vafelnyj-stakanchik-70g"
-    },
-    {
-        "Name": "Мороженое Чистая Линия Пломбир ванильный в апельсиновой глазури, 70г",
-        "Price": "114",
-        "Old price": "114",
-        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-vanilnyj-v-apelsinovoj-glazuri-bzmzh-70-g"
-    },
-    {
-        "Name": "Мороженое рожок Чистая Линия Сахарная трубочка ванильная с миндалем, 90г",
-        "Price": "162",
-        "Old price": "162",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-rozhok-chistaya-liniya-saharnaya-trubochka-vanilnaya-s-mindalem-90g"
-    },
-    {
-        "Name": "Мороженое Вологодский пломбир брикет в шоколадных вафлях, 90г",
-        "Price": "87.90",
-        "Old price": "87.90",
-        "Link": "https://online.metro-cc.ru/products/90g-morozhen-briket-vologodskiy-plombir-aysberri-bzmzh"
-    },
-    {
-        "Name": "aro Мороженое шоколадное вафельный стаканчик, 70г",
-        "Price": "19.09",
-        "Old price": "19.09",
-        "Link": "https://online.metro-cc.ru/products/aro-morozhenoe-shokoladnoe-vafelniy-stakanchik-70g"
-    },
-    {
-        "Name": "Мороженое Maxiduo Эскимо Вафельный MIX, 63г",
-        "Price": "83.90",
-        "Old price": "83.90",
-        "Link": "https://online.metro-cc.ru/products/63g-morozhenoe-maxiduo-vafelnyy-miks-slivochnoe-bzmzh"
-    },
-    {
-        "Name": "Мороженое 48 копеек Красный бархат 6%, 476г",
-        "Price": "549",
-        "Old price": "549",
-        "Link": "https://online.metro-cc.ru/products/476g-morozhenoe-6-48-kopeek-krasnyy-barhat-bzmzh"
-    },
-    {
+        "ID": "217594",
         "Name": "Мороженое Золотой стандарт сэндвич в печенье, 69г",
+        "Brand": "ЗОЛОТОЙ СТАНДАРТ",
         "Price": "69.91",
         "Old price": "86.90",
         "Link": "https://online.metro-cc.ru/products/69g-morozhenoe-sendvich-zolotoy-standart-v-pechen-bzmzh"
     },
     {
-        "Name": "Мороженое Ekzo молочное Арбуз-Дыня с кусочками дыни, 520г",
-        "Price": "359",
-        "Old price": "499",
-        "Link": "https://online.metro-cc.ru/products/ekzo-vedro-arbuz-dynya-520-gr"
+        "ID": "333224",
+        "Name": "METRO Chef Мороженое Пломбир с кусочками клубники, 2.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "1309",
+        "Old price": "1309",
+        "Link": "https://online.metro-cc.ru/products/plombir-s-kusochkami-klubniki-metro-chef-25kg"
     },
     {
-        "Name": "Мороженое Ekzo молочное Черника-Ежевика с ягодами черники, 520г",
-        "Price": "359",
-        "Old price": "499",
-        "Link": "https://online.metro-cc.ru/products/ekzo-vedro-chernika-ezhevika-520-gr"
+        "ID": "457567",
+        "Name": "METRO Chef Мороженое сливочное с ароматом фисташки и орехом миндаль, 1.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "899",
+        "Old price": "899",
+        "Link": "https://online.metro-cc.ru/products/plombir-metro-chef-fistashka-15kg"
     },
     {
-        "Name": "Мороженое Monterra Манго-Маракуйя сорбет, 300г",
+        "ID": "137182",
+        "Name": "Мороженое Monterra Грецкий орех с кленовым сиропом, 298г",
+        "Brand": "MONTERRA",
         "Price": "529",
         "Old price": "529",
-        "Link": "https://online.metro-cc.ru/products/sorbet-monterra-marakuyya-mango-300g"
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-klenovyy-sirop-gretskiy-oreh-298g-bzmzh"
     },
     {
-        "Name": "Мороженое Вологодский пломбир шоколадный в вафельном стаканчике 15%, 100г",
-        "Price": "91.91",
-        "Old price": "91.91",
-        "Link": "https://online.metro-cc.ru/products/plombir-vologodskij-shokolad-15-vafelnyj-stakanchik-100g"
+        "ID": "221100",
+        "Name": "Мороженое Чистая Линия трубочка ваниль-глазурь, 70г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "86.90",
+        "Old price": "108",
+        "Link": "https://online.metro-cc.ru/products/70g-morozhenoe-chistaya-liniya-trubochka-vanglazur-bzmzh"
     },
     {
-        "Name": "Мороженое Коровка из Кореновки Эскимо Пломбир в шоколадной глазури с фундуком, 70г",
-        "Price": "105",
-        "Old price": "105",
-        "Link": "https://online.metro-cc.ru/products/plombir-korovka-iz-korenovki-eskimo-v-shokoladnoj-glazuri-s-fundukom-70g"
-    },
-    {
-        "Name": "RIOBA Мороженое Пломбир, 75г",
-        "Price": "82.90",
-        "Old price": "82.90",
-        "Link": "https://online.metro-cc.ru/products/75g-rioba-plombir-bzmzh"
-    },
-    {
-        "Name": "Мороженое Bon Pari Фруктовый лед с соком арбуза, 67г",
-        "Price": "68.90",
-        "Old price": "68.90",
-        "Link": "https://online.metro-cc.ru/products/67g-fruktovyj-lyod-bon-pari-arbuz"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки малина-глазурь, 90г",
-        "Price": "129",
-        "Old price": "129",
-        "Link": "https://online.metro-cc.ru/products/90g-morozhenoe-korovka-iz-korenovki-malinglazur-bzmzh"
-    },
-    {
-        "Name": "Мороженое Чистая Линия Пломбир рожок гигант, 110г",
-        "Price": "155",
-        "Old price": "155",
-        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-gigant-rozhok-110g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Вологодский пломбир Эскимо в шоколадной глазури, 80г",
-        "Price": "80.91",
-        "Old price": "80.91",
-        "Link": "https://online.metro-cc.ru/products/80g-morozhen-eskimo-vologodskiy-plombir-aysberri-bzmzh"
-    },
-    {
-        "Name": "METRO Chef Мороженое Клюквенный щербет, 1.5кг",
-        "Price": "879",
-        "Old price": "879",
-        "Link": "https://online.metro-cc.ru/products/scherbet-metro-chef-klyukva-15kg"
-    },
-    {
-        "Name": "Мороженое Чистая Линия Лакомка в шоколадной глазури, 80г",
-        "Price": "157",
-        "Old price": "157",
-        "Link": "https://online.metro-cc.ru/products/lakomka-v-shokoladnoj-glazuri-chistaya-liniya-80g-bzmzh"
-    },
-    {
-        "Name": "Мороженое сливочное Sweet Moon Mochi клубника-банан в рисовой глазури (35г х 8шт), 300г",
-        "Price": "799",
-        "Old price": "799",
-        "Link": "https://online.metro-cc.ru/products/modzhi-iceumi-mochi-klubnika-banan-v-upakovke-8h35g"
-    },
-    {
-        "Name": "Мороженое Amore Голландская Клубника сорбет, 100г",
-        "Price": "135",
-        "Old price": "135",
-        "Link": "https://online.metro-cc.ru/products/100g-sorbet-amore-gollandskaya-klubnika-naturalnyy"
-    },
-    {
+        "ID": "218346",
         "Name": "Мороженое Brandice Сливки с печеньем, 600г",
+        "Brand": "BRANDICE",
         "Price": "529",
         "Old price": "739",
         "Link": "https://online.metro-cc.ru/products/600g-morozhenoe-brandice-slivki-s-pechenem-bzmzh"
     },
     {
-        "Name": "Мороженое Свитлогорье Эскимо с арахисом в карамельной глазури, 80г",
-        "Price": "72.90",
-        "Old price": "119",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-svitlogore-eskimo-plombir-s-arahisom-gost-15-80g"
+        "ID": "218343",
+        "Name": "Мороженое Brandice Миндально-фисташковое, 600г",
+        "Brand": "BRANDICE",
+        "Price": "529",
+        "Old price": "739",
+        "Link": "https://online.metro-cc.ru/products/600g-morozhenoe-brandice-mindalfistashka-bzmzh"
     },
     {
-        "Name": "Мороженое Amore Нежная малина сорбет, 270г",
-        "Price": "259",
-        "Old price": "399",
-        "Link": "https://online.metro-cc.ru/products/sorbet-amore-nezhnaya-malina-bzmzh-270g"
+        "ID": "217596",
+        "Name": "Мороженое Золотой стандарт черника в вафельном стаканчике, 93г",
+        "Brand": "ЗОЛОТОЙ СТАНДАРТ",
+        "Price": "59.90",
+        "Old price": "77.90",
+        "Link": "https://online.metro-cc.ru/products/93g-morozhenoe-zolotoy-standart-chernika-vafst-bzmzh"
     },
     {
-        "Name": "Мороженое Филевское Пломбир с шоколадной глазурью ванильный в вафельном стаканчике, 100г",
-        "Price": "57.90",
-        "Old price": "57.90",
-        "Link": "https://online.metro-cc.ru/products/filevskoe-plombir-vanilnyj-v-vafelnom-stakane-100g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Brandice Эскимо Волшебные леденцы, 70г",
-        "Price": "162",
-        "Old price": "162",
-        "Link": "https://online.metro-cc.ru/products/70g-morozhenoe-eskimo-brandice-volshebnye-ledentsy-bzmzh"
-    },
-    {
-        "Name": "Мороженое Amore Нежная малина сорбет, 100г",
-        "Price": "135",
-        "Old price": "135",
-        "Link": "https://online.metro-cc.ru/products/100g-sorbet-amore-nezhnaya-malina-naturalnyy"
-    },
-    {
-        "Name": "Мороженое Филевское Шербет Смородина, 80г",
-        "Price": "54.90",
-        "Old price": "54.90",
-        "Link": "https://online.metro-cc.ru/products/80g-morozhen-filevskoe-aysberri-scherbet-smorodina-bzmzh"
-    },
-    {
-        "Name": "Мороженое пломбир 48 копеек с клюквенным морсом 12%, 61г",
-        "Price": "78.90",
-        "Old price": "78.90",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-plombir-48-kopeek-s-klyukvennym-morsom-12-61g"
-    },
-    {
+        "ID": "117977",
         "Name": "Мороженое Свитлогорье Пломбир с ванилью в сливочной какаосодержащей глазури эскимо, 80г",
+        "Brand": "СВИТЛОГОРЬЕ",
         "Price": "59.90",
         "Old price": "95.90",
         "Link": "https://online.metro-cc.ru/products/80g-eskimo-svitlogorye-plombir-vanilnyj-v-glazuri-bzmzh"
     },
     {
-        "Name": "aro Мороженое Крем-брюле вафельный стаканчик, 70г",
-        "Price": "19.09",
-        "Old price": "19.09",
-        "Link": "https://online.metro-cc.ru/products/70g-morozhenoe-6-aro-krem-bryule-vafst"
+        "ID": "217597",
+        "Name": "Мороженое Золотой стандарт классическое в вафельном стаканчике, 95г",
+        "Brand": "ЗОЛОТОЙ СТАНДАРТ",
+        "Price": "59.90",
+        "Old price": "77.90",
+        "Link": "https://online.metro-cc.ru/products/95g-morozhenoe-zolotoy-standart-klassich-vafst-bzmzh"
     },
     {
-        "Name": "Мороженое Alpen Gold Эскимо, 58г",
-        "Price": "114",
-        "Old price": "114",
-        "Link": "https://online.metro-cc.ru/products/alpen-gold-eskimo-58g-bzmzh"
+        "ID": "333225",
+        "Name": "METRO Chef Мороженое Пломбир ванильный, 2.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "1299",
+        "Old price": "1299",
+        "Link": "https://online.metro-cc.ru/products/plombir-vanilnyj-metro-chef-25kg"
     },
     {
-        "Name": "Мороженое Коровка из Кореновки эскимо с печеньем 15%, 70г",
-        "Price": "114",
-        "Old price": "114",
-        "Link": "https://online.metro-cc.ru/products/70g-morozh-eskimo-15-korovka-iz-korenovki-s-pechenem-bzmzh"
+        "ID": "119426",
+        "Name": "METRO Chef Мороженое Пломбир ванильный, 500г",
+        "Brand": "METRO CHEF",
+        "Price": "329",
+        "Old price": "329",
+        "Link": "https://online.metro-cc.ru/products/500g-plombir-metro-chef-vanil-vanna-bzmzh"
     },
     {
-        "Name": "Мороженое Чистая Линия крем-брюле в вафельном стаканчике, 80г",
-        "Price": "86.90",
-        "Old price": "114",
-        "Link": "https://online.metro-cc.ru/products/80g-morozhenoe-chistaya-liniya-krem-bryule-vafst-bzmzh"
+        "ID": "109175",
+        "Name": "Чай Айскро облепиха-лимон-имбирь-бадьян-лемонграсс замороженный, 150г",
+        "Brand": "АЙСКРО",
+        "Price": "205",
+        "Old price": "205",
+        "Link": "https://online.metro-cc.ru/products/chaj-ajskro-s-oblepihoj-limonom-imbirem-badyanom-lemongrassom-zamorozhennyj-150-g"
     },
     {
-        "Name": "Мороженое протеиновое Айскро Ванильное 2%, 75г",
-        "Price": "142",
-        "Old price": "142",
-        "Link": "https://online.metro-cc.ru/products/75g-morozhenoe-s-proteinom-2-ayskro-vanilnoe-bzmzh"
-    },
-    {
-        "Name": "Чай Айскро апельсиновый с черной смородиной и чабрецом замороженный, 150г",
-        "Price": "191",
-        "Old price": "191",
-        "Link": "https://online.metro-cc.ru/products/chaj-apelsinovyj-ajskro-s-chernoj-smorodinoj-chabrecom-zamorozhennyj-150-g"
-    },
-    {
-        "Name": "Мороженое 48 копеек Шоколадная Прага, 432г",
-        "Price": "499",
-        "Old price": "499",
-        "Link": "https://online.metro-cc.ru/products/48-kopeek-shokoladnaya-praga-vanna-bez-zamenitelya-molochnogo-zhira-432-g"
-    },
-    {
+        "ID": "117976",
         "Name": "Мороженое Свитлогорье Эскимо пломбир с ароматом ванили Золотая ириска, 80г",
+        "Brand": "СВИТЛОГОРЬЕ",
         "Price": "59.90",
         "Old price": "95.90",
         "Link": "https://online.metro-cc.ru/products/80g-svitlogorye-zolotaya-iriska-dvuhslojn-bzmzh"
     },
     {
-        "Name": "Мороженое протеиновое Айскро Шоколадное 2%, 75г",
-        "Price": "142",
-        "Old price": "142",
-        "Link": "https://online.metro-cc.ru/products/75g-morozhenoe-s-proteinom-2-ayskro-shokolad-bzmzh"
-    },
-    {
-        "Name": "Мороженое Чистая Линия рожок фисташка, 110г",
-        "Price": "169",
-        "Old price": "169",
-        "Link": "https://online.metro-cc.ru/products/110g-morozhenoe-rozhok-chistaya-liniya-fistashka-bzmzh"
-    },
-    {
-        "Name": "Мороженое Вологодский пломбир на вареном сгущенном молоке в вафельном стаканчике, 100г",
-        "Price": "91.91",
-        "Old price": "91.91",
-        "Link": "https://online.metro-cc.ru/products/vologodskij-plombir-s-varenoj-sguschenkoj-100-g"
-    },
-    {
-        "Name": "Мороженое Amore Манго Альфонсо сорбет, 100мл",
-        "Price": "135",
-        "Old price": "135",
-        "Link": "https://online.metro-cc.ru/products/100g-sorbet-amore-mango-alfonso-naturalnyy-bzmzh"
-    },
-    {
-        "Name": "Мороженое Магнат эскимо в шоколаде Фисташка - Малина, 70г",
-        "Price": "153",
-        "Old price": "153",
-        "Link": "https://online.metro-cc.ru/products/magnat-fistashka-malina-eskimo-70g-bzmzh"
-    },
-    {
-        "Name": "Мороженое My Gelato арахис-карамель, 90г",
-        "Price": "109",
-        "Old price": "129",
-        "Link": "https://online.metro-cc.ru/products/my-gelato-arahis-karamel-90g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Чистая Линия ванильное брикет, 200г",
-        "Price": "229",
-        "Old price": "229",
-        "Link": "https://online.metro-cc.ru/products/briket-chistaya-liniya-vanilnyj-bzmzh-200g"
-    },
-    {
-        "Name": "Мороженое Чистая Линия Радуга Пломбир в вафельном стаканчике, 90г",
-        "Price": "86.90",
-        "Old price": "114",
-        "Link": "https://online.metro-cc.ru/products/raduga-chistaya-liniya-plombir-v-vafelnom-stakanchike-90g-bzmzh"
-    },
-    {
-        "Name": "Мороженое Инмарко Ice-Ice Movie сливочное пинта с попкорном и соусом Мягкая карамель, 260г",
-        "Price": "319",
-        "Old price": "319",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-inmarko-ice-ice-movie-slivochnoe-pinta-s-popkornom-i-sousom-myagkaya-karamel-260g"
-    },
-    {
-        "Name": "Мороженое Чистая Линия Радуга ванильный рожок, 110г",
-        "Price": "162",
-        "Old price": "162",
-        "Link": "https://online.metro-cc.ru/products/rozhok-chistaya-liniya-raduga-vanilnyj-bzmzh-110-g"
-    },
-    {
-        "Name": "Мороженое My Gelato Манго-имбирь сорбет, 90г",
-        "Price": "109",
-        "Old price": "129",
-        "Link": "https://online.metro-cc.ru/products/sorbet-my-gelato-mango-imbir-90g"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки вишня в вафельном стаканчике, 100г",
-        "Price": "119",
-        "Old price": "119",
-        "Link": "https://online.metro-cc.ru/products/100g-morozhenoe-korovka-iz-korenovki-vishn-vafst-bzmzh"
-    },
-    {
-        "Name": "Мороженое Айскро Голубика десерт растительный замороженный, 75г",
-        "Price": "118",
-        "Old price": "118",
-        "Link": "https://online.metro-cc.ru/products/75g-desert-rastitelnyy-ayskro-golubika-zamorozhennyy"
-    },
-    {
-        "Name": "Мороженое Ekzo Vegan Манго-Маракуйя замороженный десерт на кокосовой основе, 70г",
-        "Price": "74.90",
-        "Old price": "114",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-na-kokosovoy-osnove-ekzo-vegan-mango-marakuyya-70g"
-    },
-    {
-        "Name": "Мороженое Айскро Кокос-ежевика-миндаль десерт растительный замороженный, 75г",
-        "Price": "118",
-        "Old price": "118",
-        "Link": "https://online.metro-cc.ru/products/75g-desert-rastitelnyy-ayskro-kokosezhevikamindal-zam"
-    },
-    {
-        "Name": "Мороженое Ekzo Vegan Манго-маракуйя замороженный десерт на кокосовой основе, 270г",
-        "Price": "389",
-        "Old price": "389",
-        "Link": "https://online.metro-cc.ru/products/desert-ekzo-pinta-mango-marakuyya-vegan-zamorozhennyy-270g"
-    },
-    {
-        "Name": "Мороженое Gelato Di Natura молочное лимон, 1.575кг",
-        "Price": "1929",
-        "Old price": "1929",
-        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-limon-kontejner-15kg"
-    },
-    {
-        "Name": "Мороженое Gelato Di natura молочное клубничное 1.575кг",
-        "Price": "1929",
-        "Old price": "1929",
-        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-klubnika-kontejner-15kg"
-    },
-    {
-        "Name": "Мороженое Gelato Di Natura молочное ванильное, 1.575кг",
-        "Price": "1869",
-        "Old price": "1869",
-        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-vanil-kontejner-15kg"
-    },
-    {
-        "Name": "Мороженое Monterra Кокос-Шоколад, 263г",
+        "ID": "137186",
+        "Name": "Мороженое Monterra Шоколадно-вишневый торт, 300г",
+        "Brand": "MONTERRA",
         "Price": "529",
         "Old price": "529",
-        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-kokos-shokolad-263g-bzmzh"
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-vishnevyy-tort-300g-bzmzh"
     },
     {
-        "Name": "Мороженое Gelato Di Natura фисташковое, 1.575кг",
-        "Price": "1929",
-        "Old price": "1929",
-        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-fistashka-kontejner-15kg"
+        "ID": "218350",
+        "Name": "Мороженое Brandice шоколадное, 550г",
+        "Brand": "BRANDICE",
+        "Price": "529",
+        "Old price": "739",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-brandice-shokoladnoe-550g"
     },
     {
-        "Name": "Мороженое Gelato Di Natura кофе, 1.575кг",
-        "Price": "1929",
-        "Old price": "1929",
-        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-kofe-kontejner-15kg"
+        "ID": "107026",
+        "Name": "METRO Chef Мороженое Пломбир соленая карамель, 1.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "649",
+        "Old price": "649",
+        "Link": "https://online.metro-cc.ru/products/plombir-metro-chef-solenaya-karamel-15kg"
     },
     {
-        "Name": "Мороженое Русский Холод Юбилейное домашнее шоколадное, 1кг",
-        "Price": "399",
-        "Old price": "399",
-        "Link": "https://online.metro-cc.ru/products/plombir-russkij-holod-yubilejnoe-shokoladnoe-flou-pak-1kg"
+        "ID": "312474",
+        "Name": "Мороженое Ekzo молочное Арбуз-Дыня с кусочками дыни, 520г",
+        "Brand": "EKZO",
+        "Price": "359",
+        "Old price": "499",
+        "Link": "https://online.metro-cc.ru/products/ekzo-vedro-arbuz-dynya-520-gr"
     },
     {
-        "Name": "Мороженое Gelato Di Natura молочное шоколад, 1.575кг",
-        "Price": "1929",
-        "Old price": "1929",
-        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-shokolad-kontejner-15kg"
+        "ID": "137188",
+        "Name": "Мороженое Monterra Малина-Клубника сорбет, 306г",
+        "Brand": "MONTERRA",
+        "Price": "529",
+        "Old price": "529",
+        "Link": "https://online.metro-cc.ru/products/sorbet-monterra-malina-klubnika-306g"
     },
     {
-        "Name": "Мороженое Sweet Moon Mochi Ice Cream сливочное в рисовой глазури с манго (35г х 8шт), 300г",
-        "Price": "799",
-        "Old price": "799",
-        "Link": "https://online.metro-cc.ru/products/modzhi-iceumi-mochi-mango-v-upakovke-8h35g-bzmzh"
+        "ID": "497876",
+        "Name": "aro Мороженое ванильное, 1кг",
+        "Brand": "ARO",
+        "Price": "246",
+        "Old price": "246",
+        "Link": "https://online.metro-cc.ru/products/aro-morozhenoe-vanilnoe-1kg"
     },
     {
+        "ID": "654869",
+        "Name": "METRO Chef Мороженое Пломбир вишневый, 2.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "1319",
+        "Old price": "1319",
+        "Link": "https://online.metro-cc.ru/products/plombir-metro-chef-vishnevyj-bez-soderzhaniya-molochnogo-zhira-25kg"
+    },
+    {
+        "ID": "312475",
+        "Name": "Мороженое Ekzo молочное Черника-Ежевика с ягодами черники, 520г",
+        "Brand": "EKZO",
+        "Price": "359",
+        "Old price": "499",
+        "Link": "https://online.metro-cc.ru/products/ekzo-vedro-chernika-ezhevika-520-gr"
+    },
+    {
+        "ID": "499991",
+        "Name": "Мороженое Gelato Di Natura тирамису, 1.575кг",
+        "Brand": "GELATO",
+        "Price": "1869",
+        "Old price": "1869",
+        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-tiramisu-kontejner-15kg"
+    },
+    {
+        "ID": "333223",
+        "Name": "METRO Chef Мороженое Пломбир шоколадный с шоколадной крошкой, 2.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "1229",
+        "Old price": "1229",
+        "Link": "https://online.metro-cc.ru/products/plombir-shokoladnyj-s-shokoladnoj-kroshkoj-metro-chef-25kg"
+    },
+    {
+        "ID": "452289",
+        "Name": "Мороженое Коровка из Кореновки Пломбир шоколадный вафельный стаканчик, 100г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "84.90",
+        "Old price": "99.90",
+        "Link": "https://online.metro-cc.ru/products/plombir-korovka-iz-korenovki-shokolad-vafelnyj-stakanchik-100g-bzmzh"
+    },
+    {
+        "ID": "452291",
+        "Name": "Мороженое Коровка из Кореновки Пломбир вафельный стаканчик, 100г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "79.90",
+        "Old price": "99.90",
+        "Link": "https://online.metro-cc.ru/products/plombir-korovka-iz-korenovki-vafelnyj-stakanchik-100g-bzmzh"
+    },
+    {
+        "ID": "218342",
+        "Name": "Мороженое Brandice Волшебные леденцы, 550г",
+        "Brand": "BRANDICE",
+        "Price": "529",
+        "Old price": "739",
+        "Link": "https://online.metro-cc.ru/products/550g-morozhenoe-brandice-volshebnye-ledentsy-bzmzh"
+    },
+    {
+        "ID": "421532",
+        "Name": "Мороженое Чистая Линия Семейное Пломбир, 450г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "479",
+        "Old price": "479",
+        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-semejnoe-pachka-450g-bzmzh"
+    },
+    {
+        "ID": "110858",
+        "Name": "Чай Nordictea клюква-бадьян-апельсин замороженный, 50г",
+        "Brand": "NORDICTEA",
+        "Price": "124",
+        "Old price": "124",
+        "Link": "https://online.metro-cc.ru/products/chaj-nordictea-klyukva-badyan-apelsin-50g"
+    },
+    {
+        "ID": "527884",
+        "Name": "Мороженое Айсберри Филевский Пломбир пачка, 450г",
+        "Brand": "АЙСБЕРРИ",
+        "Price": "309",
+        "Old price": "309",
+        "Link": "https://online.metro-cc.ru/products/plombir-ajsberri-filevskij-pachka-450g"
+    },
+    {
+        "ID": "519385",
         "Name": "Мороженое Gelato Di Natura манго, 1.575кг",
+        "Brand": "GELATO",
         "Price": "1869",
         "Old price": "1869",
         "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-mango-kontejner-15kg"
     },
     {
-        "Name": "Мороженое Вологодский пломбир Эскимо манго в соковой глазури из сока манго, 60г",
-        "Price": "93.90",
-        "Old price": "93.90",
-        "Link": "https://online.metro-cc.ru/products/60g-morozhen-vologodskiy-plombir-aysberri-mango-bzmzh"
-    },
-    {
-        "Name": "Мороженое 48 копеек Deluxe яблочный пирог 4.5%, 478г",
-        "Price": "549",
-        "Old price": "549",
-        "Link": "https://online.metro-cc.ru/products/478g-morozhenoe-65-48-kopeek-deluxe-yabloch-pirog-bzmzh"
-    },
-    {
-        "Name": "Мороженое Sunreme рожок черная смородина-мята 7%, 78г",
+        "ID": "641465",
+        "Name": "Мороженое Коровка из Кореновки Эскимо Пломбир в шоколадной глазури с фундуком, 70г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
         "Price": "105",
         "Old price": "105",
-        "Link": "https://online.metro-cc.ru/products/78g-morozhenoe-rozhok-7-sunreme-chernaya-smorodmyata-bzmzh"
+        "Link": "https://online.metro-cc.ru/products/plombir-korovka-iz-korenovki-eskimo-v-shokoladnoj-glazuri-s-fundukom-70g"
     },
     {
-        "Name": "Мороженое Milka Эскимо Ванильное в молочном шоколаде, 62г",
-        "Price": "139",
-        "Old price": "139",
-        "Link": "https://online.metro-cc.ru/products/eskimo-v-shokolade-milka-62-g"
+        "ID": "137178",
+        "Name": "Мороженое Monterra Манго-Сливки, 281г",
+        "Brand": "MONTERRA",
+        "Price": "529",
+        "Old price": "529",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-mango-krem-281g-bzmzh"
     },
     {
-        "Name": "Мороженое Snickers арахис с карамелью рожок, 69г",
-        "Price": "133",
-        "Old price": "133",
-        "Link": "https://online.metro-cc.ru/products/69g-morozhenoe-rozhok-6-snickers-karamelarahis-bzmzh"
+        "ID": "110853",
+        "Name": "Чай Nordictea апельсин-лемонграсс-клубника замороженный, 50г",
+        "Brand": "NORDICTEA",
+        "Price": "124",
+        "Old price": "124",
+        "Link": "https://online.metro-cc.ru/products/chaj-nordictea-apelsin-lemongrass-klubnika-50g"
     },
     {
-        "Name": "Мороженое Snickers сливочное c пастой из арахиса и карамелью, 340г",
-        "Price": "579",
-        "Old price": "579",
-        "Link": "https://online.metro-cc.ru/products/snickers-vedro-340g-bzmzh"
+        "ID": "119427",
+        "Name": "METRO Chef Мороженое Пломбир шоколадный, 500г",
+        "Brand": "METRO CHEF",
+        "Price": "329",
+        "Old price": "329",
+        "Link": "https://online.metro-cc.ru/products/500g-plombir-metro-chef-shokolad-vanna-bzmzh"
     },
     {
+        "ID": "137547",
+        "Name": "METRO Chef Мороженое Лаймовый сорбет замороженный, 1.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "1059",
+        "Old price": "1059",
+        "Link": "https://online.metro-cc.ru/products/15kg-sorbet-metro-chef-laym-zamorozhennyy"
+    },
+    {
+        "ID": "499988",
+        "Name": "Мороженое Gelato Di Natura вишня, 1.575кг",
+        "Brand": "GELATO",
+        "Price": "1929",
+        "Old price": "1929",
+        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-vishnya-kontejner-15kg"
+    },
+    {
+        "ID": "249833",
+        "Name": "Мороженое пломбир Золотой стандарт Крем-брюле в вафельном стаканчике 12%, 90г",
+        "Brand": "ЗОЛОТОЙ СТАНДАРТ",
+        "Price": "59.90",
+        "Old price": "77.90",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-plombir-zolotoy-standart-krem-bryule-v-vafelnom-stakanchike-12-90g"
+    },
+    {
+        "ID": "611682",
+        "Name": "Мороженое Gelato Di Natura молочное маскарпоне, 1.575кг",
+        "Brand": "GELATO",
+        "Price": "1929",
+        "Old price": "1929",
+        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-maskarpone-kontejner-1575kg"
+    },
+    {
+        "ID": "500716",
+        "Name": "Мороженое Золотой стандарт Пломбир классический полено, 990г",
+        "Brand": "ЗОЛОТОЙ СТАНДАРТ",
+        "Price": "569",
+        "Old price": "569",
+        "Link": "https://online.metro-cc.ru/products/plombir-zolotoj-standart-klassicheskij-poleno-900g-bzmzh"
+    },
+    {
+        "ID": "135684",
         "Name": "Мороженое Maxiduo Сэндвич Страчателла, 92г",
+        "Brand": "MAXIDUO",
         "Price": "105",
         "Old price": "105",
         "Link": "https://online.metro-cc.ru/products/morozhenoe-maxiduo-strachatella-92g-bzmzh"
     },
     {
-        "Name": "Мороженое Mars с карамелью и глазурью, 300г",
-        "Price": "579",
-        "Old price": "579",
-        "Link": "https://online.metro-cc.ru/products/mars-vederko-300g-bzmzh"
+        "ID": "562917",
+        "Name": "Мороженое Вологодский пломбир в вафельном стаканчике 15%, 100г",
+        "Brand": "ВОЛОГОДСКИЙ ПЛОМБИР",
+        "Price": "89.90",
+        "Old price": "89.90",
+        "Link": "https://online.metro-cc.ru/products/plombir-ajsberri-vologodskij-vafelnyj-stakanchik-100g-bzmzh"
     },
     {
-        "Name": "Мороженое эскимо А.Ростагрокомплекс Манго-кокос 15%, 65г",
+        "ID": "110857",
+        "Name": "Чай Nordictea апельсин-облепиха-жмых замороженный, 50г",
+        "Brand": "NORDICTEA",
+        "Price": "124",
+        "Old price": "124",
+        "Link": "https://online.metro-cc.ru/products/chaj-nordictea-apelsin-oblepihazhmyh-50g"
+    },
+    {
+        "ID": "137164",
+        "Name": "Мороженое Monterra Ванильное, 252г",
+        "Brand": "MONTERRA",
+        "Price": "529",
+        "Old price": "529",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-vanil-252g-bzmzh"
+    },
+    {
+        "ID": "654868",
+        "Name": "METRO Chef Мороженое Пломбир крем-брюле, 2.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "1269",
+        "Old price": "1269",
+        "Link": "https://online.metro-cc.ru/products/plombir-metro-chef-krem-bryule-bez-soderzhaniya-molochnogo-zhira-25kg"
+    },
+    {
+        "ID": "66900",
+        "Name": "Мороженое Amore Нежная малина сорбет, 270г",
+        "Brand": "AMORE",
+        "Price": "259",
+        "Old price": "399",
+        "Link": "https://online.metro-cc.ru/products/sorbet-amore-nezhnaya-malina-bzmzh-270g"
+    },
+    {
+        "ID": "137173",
+        "Name": "Мороженое Monterra Тирамису, 277г",
+        "Brand": "MONTERRA",
+        "Price": "529",
+        "Old price": "529",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-tiramisu-277g-bzmzh"
+    },
+    {
+        "ID": "211460",
+        "Name": "Мороженое Филевское лакомка сливочное ванильное во взбитой шоколадной глазури, 90г",
+        "Brand": "ФИЛЕВСКОЕ",
+        "Price": "65.90",
+        "Old price": "65.90",
+        "Link": "https://online.metro-cc.ru/products/filevskaya-lakomka-ajsberri-slivochnaya-90-g"
+    },
+    {
+        "ID": "137546",
+        "Name": "METRO Chef Мороженое Малиновый сорбет замороженный, 1.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "1299",
+        "Old price": "1299",
+        "Link": "https://online.metro-cc.ru/products/15kg-sorbet-metro-chef-malina-zamorozhennyy"
+    },
+    {
+        "ID": "109178",
+        "Name": "Чай Айскро малина-клубника-базилик-корица замороженный, 150г",
+        "Brand": "АЙСКРО",
+        "Price": "205",
+        "Old price": "205",
+        "Link": "https://online.metro-cc.ru/products/chaj-malino-klubnichnyj-ajskro-s-bazilikom-koricej-zamorozhennyj-150-g"
+    },
+    {
+        "ID": "128431",
+        "Name": "RIOBA Мороженое кофе с печеньем амаретти, 75г",
+        "Brand": "RIOBA",
+        "Price": "92.90",
+        "Old price": "92.90",
+        "Link": "https://online.metro-cc.ru/products/75g-rioba-kofe-s-peche-amaret-bzmzh"
+    },
+    {
+        "ID": "66881",
+        "Name": "Мороженое Amore Карамель с морской солью, 250г",
+        "Brand": "AMORE",
+        "Price": "359",
+        "Old price": "359",
+        "Link": "https://online.metro-cc.ru/products/amore-karamel-s-morskoj-solyu-bez-zamenitelya-molochnyh-zhirov-270-g"
+    },
+    {
+        "ID": "566257",
+        "Name": "Мороженое Коровка из Кореновки Пломбир полено с шоколадной стружкой, 400г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "349",
+        "Old price": "349",
+        "Link": "https://online.metro-cc.ru/products/poleno-korovka-iz-korenovki-plombir-s-shokoladnoj-struzhkoj-400g-bzmzh"
+    },
+    {
+        "ID": "253636",
+        "Name": "Мороженое Свитлогорье Эскимо с арахисом в карамельной глазури, 80г",
+        "Brand": "СВИТЛОГОРЬЕ",
+        "Price": "72.90",
+        "Old price": "119",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-svitlogore-eskimo-plombir-s-arahisom-gost-15-80g"
+    },
+    {
+        "ID": "457563",
+        "Name": "METRO Chef Мороженое Клюквенный щербет, 1.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "879",
+        "Old price": "879",
+        "Link": "https://online.metro-cc.ru/products/scherbet-metro-chef-klyukva-15kg"
+    },
+    {
+        "ID": "497875",
+        "Name": "aro Мороженое с ароматом клубники, 1кг",
+        "Brand": "ARO",
+        "Price": "246",
+        "Old price": "246",
+        "Link": "https://online.metro-cc.ru/products/aro-morozhenoe-s-aromatom-klubniki-1kg"
+    },
+    {
+        "ID": "457568",
+        "Name": "METRO Chef Мороженое Черносмородиновый щербет, 1.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "779",
+        "Old price": "779",
+        "Link": "https://online.metro-cc.ru/products/scherbet-metro-chef-chernaya-smorodina-15kg"
+    },
+    {
+        "ID": "69647",
+        "Name": "Мороженое Oreo Сэндвич Ванильное с кусочками печенья, 76г",
+        "Brand": "OREO",
+        "Price": "109",
+        "Old price": "109",
+        "Link": "https://online.metro-cc.ru/products/oreo-s-pechenyem-76g-bzmzh"
+    },
+    {
+        "ID": "109179",
+        "Name": "Чай Айскро апельсиновый с черной смородиной и чабрецом замороженный, 150г",
+        "Brand": "АЙСКРО",
+        "Price": "191",
+        "Old price": "191",
+        "Link": "https://online.metro-cc.ru/products/chaj-apelsinovyj-ajskro-s-chernoj-smorodinoj-chabrecom-zamorozhennyj-150-g"
+    },
+    {
+        "ID": "524502",
+        "Name": "Мороженое Магнат эскимо в шоколаде Шоколадный трюфель, 72г",
+        "Brand": "МАГНАТ",
+        "Price": "153",
+        "Old price": "153",
+        "Link": "https://online.metro-cc.ru/products/vanilnoe-magnat-shokoladnyj-tryufel-eskimo-80g-bzmzh"
+    },
+    {
+        "ID": "110855",
+        "Name": "Чай Nordictea вишневый глинтвейн замороженный, 50г",
+        "Brand": "NORDICTEA",
+        "Price": "124",
+        "Old price": "124",
+        "Link": "https://online.metro-cc.ru/products/chaj-nordictea-vishnevyj-glintvejn-50g"
+    },
+    {
+        "ID": "499992",
+        "Name": "Мороженое Gelato Di Natura молочное ванильное, 1.575кг",
+        "Brand": "GELATO",
+        "Price": "1869",
+        "Old price": "1869",
+        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-vanil-kontejner-15kg"
+    },
+    {
+        "ID": "588636",
+        "Name": "Мороженое Коровка из Кореновки Пломбир Полено, 400г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "319",
+        "Old price": "319",
+        "Link": "https://online.metro-cc.ru/products/korovka-iz-korenovki-plombir-poleno-400g-bzmzh"
+    },
+    {
+        "ID": "221122",
+        "Name": "Мороженое Чистая Линия крем-брюле в вафельном стаканчике, 80г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "86.90",
+        "Old price": "114",
+        "Link": "https://online.metro-cc.ru/products/80g-morozhenoe-chistaya-liniya-krem-bryule-vafst-bzmzh"
+    },
+    {
+        "ID": "499989",
+        "Name": "Мороженое Gelato Di Natura панна-котта, 1.575кг",
+        "Brand": "GELATO",
+        "Price": "1929",
+        "Old price": "1929",
+        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-panna-kotta-kontejner-15kg"
+    },
+    {
+        "ID": "128317",
+        "Name": "Мороженое Bon Pari Фруктовый лед с соком арбуза, 67г",
+        "Brand": "BON PARI",
+        "Price": "68.90",
+        "Old price": "68.90",
+        "Link": "https://online.metro-cc.ru/products/67g-fruktovyj-lyod-bon-pari-arbuz"
+    },
+    {
+        "ID": "117168",
+        "Name": "Мороженое Чистая Линия Пломбир ванильный в апельсиновой глазури, 70г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "114",
+        "Old price": "114",
+        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-vanilnyj-v-apelsinovoj-glazuri-bzmzh-70-g"
+    },
+    {
+        "ID": "117346",
+        "Name": "Мороженое Коровка из Кореновки Пломбир с шоколадной крошкой стакан, 80г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "99.90",
+        "Old price": "99.90",
+        "Link": "https://online.metro-cc.ru/products/80g-plombir-korovka-iz-korenovki-shok-krosh-stakan-bzmzh"
+    },
+    {
+        "ID": "221106",
+        "Name": "Мороженое Чистая Линия волшебный фонарь, 80г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "167",
+        "Old price": "167",
+        "Link": "https://online.metro-cc.ru/products/80g-morozhenoe-chistaya-liniya-volshebnyy-fonar-bzmzh"
+    },
+    {
+        "ID": "235429",
+        "Name": "Мороженое молочное Amore с греческим йогуртом, 300мл",
+        "Brand": "AMORE",
+        "Price": "299",
+        "Old price": "429",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-molochnoe-amore-s-grecheskim-yogurtom-300ml"
+    },
+    {
+        "ID": "249830",
+        "Name": "Мороженое Ekzo Vegan Манго-Маракуйя замороженный десерт на кокосовой основе, 70г",
+        "Brand": "EKZO",
+        "Price": "74.90",
+        "Old price": "114",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-na-kokosovoy-osnove-ekzo-vegan-mango-marakuyya-70g"
+    },
+    {
+        "ID": "218486",
+        "Name": "Мороженое Коровка из Кореновки вишня в вафельном стаканчике, 100г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "119",
+        "Old price": "119",
+        "Link": "https://online.metro-cc.ru/products/100g-morozhenoe-korovka-iz-korenovki-vishn-vafst-bzmzh"
+    },
+    {
+        "ID": "202688",
+        "Name": "Мороженое Магнат Double Шоколад в формате пинты с кусочками настоящего шоколада, 310г",
+        "Brand": "МАГНАТ",
+        "Price": "619",
+        "Old price": "619",
+        "Link": "https://online.metro-cc.ru/products/310g-morozhenoe-magnat-dabl-shokolad-bzmzh"
+    },
+    {
+        "ID": "226262",
+        "Name": "Мороженое Вологодский пломбир брикет в шоколадных вафлях, 90г",
+        "Brand": "ВОЛОГОДСКИЙ ПЛОМБИР",
+        "Price": "87.90",
+        "Old price": "87.90",
+        "Link": "https://online.metro-cc.ru/products/90g-morozhen-briket-vologodskiy-plombir-aysberri-bzmzh"
+    },
+    {
+        "ID": "519387",
+        "Name": "Мороженое Gelato Di Natura молочное лимон, 1.575кг",
+        "Brand": "GELATO",
+        "Price": "1929",
+        "Old price": "1929",
+        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-limon-kontejner-15kg"
+    },
+    {
+        "ID": "451086",
+        "Name": "Мороженое Золотой стандарт Пломбир с черникой контейнер, 475г",
+        "Brand": "ЗОЛОТОЙ СТАНДАРТ",
+        "Price": "499",
+        "Old price": "499",
+        "Link": "https://online.metro-cc.ru/products/plombir-zolotoj-standart-s-chernikoj-kontejner-500g-bzmzh"
+    },
+    {
+        "ID": "452288",
+        "Name": "Мороженое Коровка из Кореновки Эскимо Пломбир в шоколадной глазури, 70г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "90.90",
+        "Old price": "90.90",
+        "Link": "https://online.metro-cc.ru/products/plombir-korovka-iz-korenovki-v-shokoladnoj-glazuri-eskimo-70g-bzmzh"
+    },
+    {
+        "ID": "519384",
+        "Name": "Мороженое Gelato Di Natura молочное шоколад, 1.575кг",
+        "Brand": "GELATO",
+        "Price": "1929",
+        "Old price": "1929",
+        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-shokolad-kontejner-15kg"
+    },
+    {
+        "ID": "137187",
+        "Name": "Мороженое Monterra Манго-Маракуйя сорбет, 300г",
+        "Brand": "MONTERRA",
+        "Price": "529",
+        "Old price": "529",
+        "Link": "https://online.metro-cc.ru/products/sorbet-monterra-marakuyya-mango-300g"
+    },
+    {
+        "ID": "226261",
+        "Name": "Мороженое Вологодский пломбир Эскимо в шоколадной глазури, 80г",
+        "Brand": "ВОЛОГОДСКИЙ ПЛОМБИР",
+        "Price": "80.91",
+        "Old price": "80.91",
+        "Link": "https://online.metro-cc.ru/products/80g-morozhen-eskimo-vologodskiy-plombir-aysberri-bzmzh"
+    },
+    {
+        "ID": "66894",
+        "Name": "Мороженое Amore Изысканная горгонзола, 250г",
+        "Brand": "AMORE",
+        "Price": "429",
+        "Old price": "429",
+        "Link": "https://online.metro-cc.ru/products/amore-izyskannaya-gorgonzola-bez-zamenitelya-molochnyh-zhirov-270-g"
+    },
+    {
+        "ID": "452287",
+        "Name": "Мороженое Коровка из Кореновки Пломбир 15%, 1кг",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "739",
+        "Old price": "739",
+        "Link": "https://online.metro-cc.ru/products/korovka-iz-korenovki-plombir-15-1kg-bzmzh"
+    },
+    {
+        "ID": "84172",
+        "Name": "Мороженое Oreo Рожок Ванильное с кусочками печенья, 72г",
+        "Brand": "OREO",
+        "Price": "124",
+        "Old price": "124",
+        "Link": "https://online.metro-cc.ru/products/oreo-s-droblenym-pechenyem-rozhok-bez-zamenitelya-molochnogo-zhira-73-g"
+    },
+    {
+        "ID": "128434",
+        "Name": "RIOBA Мороженое Пломбир соленая карамель, 75г",
+        "Brand": "RIOBA",
+        "Price": "92.90",
+        "Old price": "92.90",
+        "Link": "https://online.metro-cc.ru/products/75g-plombir-rioba-solyon-karam-bzmzh"
+    },
+    {
+        "ID": "254020",
+        "Name": "Мороженое Магнат эскимо в шоколаде покрытое хрустящими орешками Брюнетка, 74г",
+        "Brand": "МАГНАТ",
+        "Price": "153",
+        "Old price": "153",
+        "Link": "https://online.metro-cc.ru/products/magnat-bryunetka-eskimo-82g-bzmzh"
+    },
+    {
+        "ID": "226048",
+        "Name": "Мороженое пломбир А.Ростагрокомплекс Эскимо с соленой карамелью в молочном шоколаде с дробленым миндалем 15%, 65г",
+        "Brand": "А.РОСТАГРОКОМПЛЕКС",
         "Price": "113",
         "Old price": "113",
-        "Link": "https://online.metro-cc.ru/products/65g-morozh-eskimo-15-arostagrokompleks-mangokokos-bzmzh"
+        "Link": "https://online.metro-cc.ru/products/65g-morozhen-eskimo-arostagrokompleks-sol-karam-bzmzh"
     },
     {
+        "ID": "128433",
+        "Name": "RIOBA Мороженое Пломбир бельгийский шоколад, 75г",
+        "Brand": "RIOBA",
+        "Price": "114",
+        "Old price": "114",
+        "Link": "https://online.metro-cc.ru/products/75g-plombir-rioba-belgijsk-shok-bzmzh"
+    },
+    {
+        "ID": "84139",
+        "Name": "Мороженое 48 копеек Пломбир брикет, 210г",
+        "Brand": "48 КОПЕЕК",
+        "Price": "169",
+        "Old price": "169",
+        "Link": "https://online.metro-cc.ru/products/48-kopeek-plombir-briket-bez-zamenitelya-molochnogo-zhira-210-g"
+    },
+    {
+        "ID": "85491",
+        "Name": "Мороженое Чистая Линия Лакомка в шоколадной глазури, 80г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "157",
+        "Old price": "157",
+        "Link": "https://online.metro-cc.ru/products/lakomka-v-shokoladnoj-glazuri-chistaya-liniya-80g-bzmzh"
+    },
+    {
+        "ID": "137545",
+        "Name": "METRO Chef Мороженое Манго сорбет замороженный, 1.5кг",
+        "Brand": "METRO CHEF",
+        "Price": "1059",
+        "Old price": "1059",
+        "Link": "https://online.metro-cc.ru/products/15kg-sorbet-metro-chef-mango-zamorozhennyy"
+    },
+    {
+        "ID": "128438",
+        "Name": "RIOBA Мороженое Манго-груша сорбет, 75г",
+        "Brand": "RIOBA",
+        "Price": "111",
+        "Old price": "111",
+        "Link": "https://online.metro-cc.ru/products/75g-sorbet-rioba-mango-grusha"
+    },
+    {
+        "ID": "128436",
+        "Name": "RIOBA Мороженое сливочное мятное с шоколадом, 75г",
+        "Brand": "RIOBA",
+        "Price": "99.90",
+        "Old price": "99.90",
+        "Link": "https://online.metro-cc.ru/products/75g-slivochn-rioba-myata-shokol-bzmzh"
+    },
+    {
+        "ID": "247895",
+        "Name": "Мороженое 48 копеек Красный бархат 6%, 476г",
+        "Brand": "48 КОПЕЕК",
+        "Price": "549",
+        "Old price": "549",
+        "Link": "https://online.metro-cc.ru/products/476g-morozhenoe-6-48-kopeek-krasnyy-barhat-bzmzh"
+    },
+    {
+        "ID": "202663",
+        "Name": "Мороженое Магнат Double Соленая карамель в формате пинты с кусочками настоящего шоколада, 310г",
+        "Brand": "МАГНАТ",
+        "Price": "619",
+        "Old price": "619",
+        "Link": "https://online.metro-cc.ru/products/310g-morozhenoe-magnat-dabl-solyonaya-karamel-bzmzh"
+    },
+    {
+        "ID": "249827",
+        "Name": "Мороженое Инмарко Ice-Ice Movie сливочное пинта с попкорном и соусом Мягкая карамель, 260г",
+        "Brand": "ИНМАРКО",
+        "Price": "319",
+        "Old price": "319",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-inmarko-ice-ice-movie-slivochnoe-pinta-s-popkornom-i-sousom-myagkaya-karamel-260g"
+    },
+    {
+        "ID": "137180",
+        "Name": "Мороженое Monterra Фисташковое, 287г",
+        "Brand": "MONTERRA",
+        "Price": "529",
+        "Old price": "529",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-fistashka-287g-bzmzh"
+    },
+    {
+        "ID": "128432",
+        "Name": "RIOBA Мороженое Пломбир, 75г",
+        "Brand": "RIOBA",
+        "Price": "82.90",
+        "Old price": "82.90",
+        "Link": "https://online.metro-cc.ru/products/75g-rioba-plombir-bzmzh"
+    },
+    {
+        "ID": "247970",
         "Name": "Мороженое Коровка из Кореновки рожок вареная сгущенка 15%, 120г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
         "Price": "133",
         "Old price": "133",
         "Link": "https://online.metro-cc.ru/products/120g-morozh-rozhok-15-korovka-iz-korenovki-var-sguschenka-bzmzh"
     },
     {
-        "Name": "Мороженое My Gelato Клубника-базилик сорбет, 90г",
-        "Price": "109",
+        "ID": "218537",
+        "Name": "Мороженое Коровка из Кореновки малина-глазурь, 90г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "129",
         "Old price": "129",
-        "Link": "https://online.metro-cc.ru/products/sorbet-my-gelato-klubnika-bazilik-90g"
+        "Link": "https://online.metro-cc.ru/products/90g-morozhenoe-korovka-iz-korenovki-malinglazur-bzmzh"
     },
     {
+        "ID": "454877",
+        "Name": "Мороженое Золотой стандарт Пломбир суфле и шоколадным наполнителем контейнер, 475г",
+        "Brand": "ЗОЛОТОЙ СТАНДАРТ",
+        "Price": "499",
+        "Old price": "499",
+        "Link": "https://online.metro-cc.ru/products/plombir-zolotoj-standart-shokoladnyj-kontejner-500g-bzmzh"
+    },
+    {
+        "ID": "247894",
+        "Name": "Мороженое 48 копеек манго со сливками 6%, 241г",
+        "Brand": "48 КОПЕЕК",
+        "Price": "169",
+        "Old price": "169",
+        "Link": "https://online.metro-cc.ru/products/241g-morozhenoe-6-48-kopeek-mango-so-slivkami-bzmzh"
+    },
+    {
+        "ID": "259331",
+        "Name": "Мороженое Ekzo Vegan Манго-маракуйя замороженный десерт на кокосовой основе, 270г",
+        "Brand": "EKZO",
+        "Price": "389",
+        "Old price": "389",
+        "Link": "https://online.metro-cc.ru/products/desert-ekzo-pinta-mango-marakuyya-vegan-zamorozhennyy-270g"
+    },
+    {
+        "ID": "107431",
+        "Name": "Мороженое Чистая Линия Радуга Пломбир в вафельном стаканчике, 90г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "86.90",
+        "Old price": "114",
+        "Link": "https://online.metro-cc.ru/products/raduga-chistaya-liniya-plombir-v-vafelnom-stakanchike-90g-bzmzh"
+    },
+    {
+        "ID": "255727",
+        "Name": "Мороженое пломбир 48 копеек с клюквенным морсом 12%, 61г",
+        "Brand": "48 КОПЕЕК",
+        "Price": "78.90",
+        "Old price": "78.90",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-plombir-48-kopeek-s-klyukvennym-morsom-12-61g"
+    },
+    {
+        "ID": "593209",
+        "Name": "Мороженое Sweet Moon Mochi Ice Cream сливочное в рисовой глазури с кусочками персика и маракуйи (35г х 8шт), 300г",
+        "Brand": "SWEET MOON",
+        "Price": "799",
+        "Old price": "799",
+        "Link": "https://online.metro-cc.ru/products/modzhi-iceumi-mochi-persik-marakujya-v-upakovke-8h35g-bzmzh"
+    },
+    {
+        "ID": "202662",
+        "Name": "Мороженое Магнат Double Фисташка в формате пинты с кусочками настоящего шоколада, 300г",
+        "Brand": "МАГНАТ",
+        "Price": "619",
+        "Old price": "619",
+        "Link": "https://online.metro-cc.ru/products/300g-morozhenoe-magnat-dabl-fistashka-bzmzh"
+    },
+    {
+        "ID": "107028",
+        "Name": "aro Мороженое с ароматом фисташки, 1кг",
+        "Brand": "ARO",
+        "Price": "246",
+        "Old price": "246",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-aro-fistashkovoe-1000g"
+    },
+    {
+        "ID": "128435",
+        "Name": "RIOBA Мороженое сливочное клубника со сливками, 75г",
+        "Brand": "RIOBA",
+        "Price": "92.90",
+        "Old price": "92.90",
+        "Link": "https://online.metro-cc.ru/products/75g-slivochn-rioba-klubn-slivk-bzmzh"
+    },
+    {
+        "ID": "137183",
+        "Name": "Мороженое Monterra Печенье с карамелью, 298г",
+        "Brand": "MONTERRA",
+        "Price": "529",
+        "Old price": "529",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-pechene-karamel-298g-bzmzh"
+    },
+    {
+        "ID": "135683",
+        "Name": "Мороженое Sunreme со вкусом малины и банана, 78г",
+        "Brand": "SUNREME",
+        "Price": "103",
+        "Old price": "103",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-sunreme-malina-banan-78g-bzmzh"
+    },
+    {
+        "ID": "218291",
+        "Name": "Мороженое протеиновое Айскро Шоколадное 2%, 75г",
+        "Brand": "АЙСКРО",
+        "Price": "142",
+        "Old price": "142",
+        "Link": "https://online.metro-cc.ru/products/75g-morozhenoe-s-proteinom-2-ayskro-shokolad-bzmzh"
+    },
+    {
+        "ID": "128439",
+        "Name": "RIOBA Мороженое Манго-маракуйя сорбет без сахара, 75г",
+        "Brand": "RIOBA",
+        "Price": "119",
+        "Old price": "119",
+        "Link": "https://online.metro-cc.ru/products/75g-sorbet-rioba-mango-marakujya"
+    },
+    {
+        "ID": "137168",
+        "Name": "Мороженое Monterra Бельгийский шоколад, 276г",
+        "Brand": "MONTERRA",
+        "Price": "529",
+        "Old price": "529",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-belgiyskiy-shokolad-276g-bzmzh"
+    },
+    {
+        "ID": "602638",
+        "Name": "Мороженое Вологодский пломбир шоколадный в вафельном стаканчике 15%, 100г",
+        "Brand": "ВОЛОГОДСКИЙ ПЛОМБИР",
+        "Price": "91.91",
+        "Old price": "91.91",
+        "Link": "https://online.metro-cc.ru/products/plombir-vologodskij-shokolad-15-vafelnyj-stakanchik-100g"
+    },
+    {
+        "ID": "247959",
+        "Name": "Мороженое Коровка из Кореновки с малиной в вафельном стаканчике 15%, 100г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "119",
+        "Old price": "119",
+        "Link": "https://online.metro-cc.ru/products/100g-morozh-15-korovka-iz-korenovki-s-malinoy-vafst-bzmzh"
+    },
+    {
+        "ID": "119428",
+        "Name": "METRO Chef Мороженое Пломбир с ароматом фисташки, 500г",
+        "Brand": "METRO CHEF",
+        "Price": "329",
+        "Old price": "329",
+        "Link": "https://online.metro-cc.ru/products/500g-plombir-metro-chef-arom-fist-vanna-bzmzh"
+    },
+    {
+        "ID": "356150",
+        "Name": "Мороженое Чистая Линия Московская Лакомка Пломбир, 80г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "155",
+        "Old price": "155",
+        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-moskovskaya-lakomka-batonchik-80g-bzmzh"
+    },
+    {
+        "ID": "218289",
+        "Name": "Мороженое Айскро Кокос-ежевика-миндаль десерт растительный замороженный, 75г",
+        "Brand": "АЙСКРО",
+        "Price": "118",
+        "Old price": "118",
+        "Link": "https://online.metro-cc.ru/products/75g-desert-rastitelnyy-ayskro-kokosezhevikamindal-zam"
+    },
+    {
+        "ID": "258703",
+        "Name": "Мороженое пломбир 48 копеек с натуральной малиной в вафельном стаканчике, 88г",
+        "Brand": "48 КОПЕЕК",
+        "Price": "89.90",
+        "Old price": "89.90",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-plombir-48-kopeek-s-naturalnoy-malinoy-v-vafelnom-stakanchike-88g"
+    },
+    {
+        "ID": "426790",
+        "Name": "Мороженое Филевское Пломбир с шоколадной глазурью ванильный в вафельном стаканчике, 100г",
+        "Brand": "ФИЛЕВСКОЕ",
+        "Price": "57.90",
+        "Old price": "57.90",
+        "Link": "https://online.metro-cc.ru/products/filevskoe-plombir-vanilnyj-v-vafelnom-stakane-100g-bzmzh"
+    },
+    {
+        "ID": "529926",
+        "Name": "Мороженое Талосто Классическая Венеция Пломбир ванильный пачка, 450г",
+        "Brand": "ТАЛОСТО",
+        "Price": "287",
+        "Old price": "287",
+        "Link": "https://online.metro-cc.ru/products/plombir-talosto-veneciya-klassicheskaya-vanilnyj-pachka-450g-bzmzh"
+    },
+    {
+        "ID": "450251",
+        "Name": "Мороженое Чистая Линия Пломбир рожок гигант, 110г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "155",
+        "Old price": "155",
+        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-gigant-rozhok-110g-bzmzh"
+    },
+    {
+        "ID": "226047",
+        "Name": "Мороженое пломбир А.Ростагрокомплекс Эскимо с голубикой и ежевикой в молочном шоколаде 15%, 65г",
+        "Brand": "А.РОСТАГРОКОМПЛЕКС",
+        "Price": "113",
+        "Old price": "113",
+        "Link": "https://online.metro-cc.ru/products/65g-morozhen-eskimo-arostagrokompleks-golubika-bzmzh"
+    },
+    {
+        "ID": "117231",
+        "Name": "Мороженое Чистая Линия ванильное брикет, 200г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "229",
+        "Old price": "229",
+        "Link": "https://online.metro-cc.ru/products/briket-chistaya-liniya-vanilnyj-bzmzh-200g"
+    },
+    {
+        "ID": "219264",
+        "Name": "Мороженое Amore Голландская Клубника сорбет, 100г",
+        "Brand": "AMORE",
+        "Price": "135",
+        "Old price": "135",
+        "Link": "https://online.metro-cc.ru/products/100g-sorbet-amore-gollandskaya-klubnika-naturalnyy"
+    },
+    {
+        "ID": "247896",
+        "Name": "Мороженое 48 копеек Deluxe яблочный пирог 4.5%, 478г",
+        "Brand": "48 КОПЕЕК",
+        "Price": "549",
+        "Old price": "549",
+        "Link": "https://online.metro-cc.ru/products/478g-morozhenoe-65-48-kopeek-deluxe-yabloch-pirog-bzmzh"
+    },
+    {
+        "ID": "356151",
+        "Name": "Мороженое Чистая Линия Пломбир в вафлях брикет, 80г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "105",
+        "Old price": "105",
+        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-na-vaflyah-briket-80g-bzmzh"
+    },
+    {
+        "ID": "219267",
+        "Name": "Мороженое Amore Нежная малина сорбет, 100г",
+        "Brand": "AMORE",
+        "Price": "135",
+        "Old price": "135",
+        "Link": "https://online.metro-cc.ru/products/100g-sorbet-amore-nezhnaya-malina-naturalnyy"
+    },
+    {
+        "ID": "387520",
+        "Name": "Мороженое Магнат эскимо в шоколаде Манго-Красные ягоды, 74г",
+        "Brand": "МАГНАТ",
+        "Price": "153",
+        "Old price": "153",
+        "Link": "https://online.metro-cc.ru/products/magnat-eskimo-v-shokolade-mango-krasnye-yagody-74-gr"
+    },
+    {
+        "ID": "226260",
+        "Name": "Мороженое Филевское Шербет Смородина, 80г",
+        "Brand": "ФИЛЕВСКОЕ",
+        "Price": "54.90",
+        "Old price": "54.90",
+        "Link": "https://online.metro-cc.ru/products/80g-morozhen-filevskoe-aysberri-scherbet-smorodina-bzmzh"
+    },
+    {
+        "ID": "117167",
+        "Name": "Мороженое Чистая Линия Эскимо Пломбир малиновый кактус, 80г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "165",
+        "Old price": "165",
+        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-malinovyj-kaktus-bzmzh-80-g"
+    },
+    {
+        "ID": "84117",
+        "Name": "Мороженое 48 копеек Шоколадная Прага, 432г",
+        "Brand": "48 КОПЕЕК",
+        "Price": "499",
+        "Old price": "499",
+        "Link": "https://online.metro-cc.ru/products/48-kopeek-shokoladnaya-praga-vanna-bez-zamenitelya-molochnogo-zhira-432-g"
+    },
+    {
+        "ID": "247979",
+        "Name": "Мороженое Коровка из Кореновки Лакомка крем-брюле 15%, 90г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "114",
+        "Old price": "114",
+        "Link": "https://online.metro-cc.ru/products/90g-morozh-15-korovka-iz-korenovki-lakomka-krem-bryule-bzmzh"
+    },
+    {
+        "ID": "545938",
+        "Name": "Мороженое Чистая Линия Пломбироешка пломбир ванильный контейнер, 450г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "609",
+        "Old price": "609",
+        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-plombiroeshka-vanilnoe-kontejner-450g-bzmzh"
+    },
+    {
+        "ID": "217613",
+        "Name": "Мороженое Maxiduo Эскимо Вафельный MIX, 63г",
+        "Brand": "MAXIDUO",
+        "Price": "83.90",
+        "Old price": "83.90",
+        "Link": "https://online.metro-cc.ru/products/63g-morozhenoe-maxiduo-vafelnyy-miks-slivochnoe-bzmzh"
+    },
+    {
+        "ID": "593213",
+        "Name": "Мороженое сливочное Sweet Moon Mochi клубника-банан в рисовой глазури (35г х 8шт), 300г",
+        "Brand": "SWEET MOON",
+        "Price": "799",
+        "Old price": "799",
+        "Link": "https://online.metro-cc.ru/products/modzhi-iceumi-mochi-klubnika-banan-v-upakovke-8h35g"
+    },
+    {
+        "ID": "84134",
+        "Name": "Мороженое 48 копеек Брикет Шоколадное с шоколадным соусом, 232г",
+        "Brand": "48 КОПЕЕК",
+        "Price": "169",
+        "Old price": "169",
+        "Link": "https://online.metro-cc.ru/products/48-kopeek-s-shokoladnym-sousom-briket-232-g"
+    },
+    {
+        "ID": "250061",
+        "Name": "Мороженое эскимо Чистая Линия Ванильное с арахисом в шоколадной глазури, 80г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "143",
+        "Old price": "143",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-eskimo-chistaya-liniya-vanilnoe-s-arahisom-v-shokoladnoy-glazuri-80g"
+    },
+    {
+        "ID": "116782",
+        "Name": "Мороженое Bounty с кокосовой стружкой и шоколадной глазурью, 272г",
+        "Brand": "BOUNTY",
+        "Price": "579",
+        "Old price": "579",
+        "Link": "https://online.metro-cc.ru/products/272g-morozhenoe-bounty-vederko-bzmzh"
+    },
+    {
+        "ID": "113065",
+        "Name": "Мороженое Oreo сливочное с кусочками печенья, 263г",
+        "Brand": "OREO",
+        "Price": "499",
+        "Old price": "499",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-slivochnoe-oreo-s-kusochkami-pechenya-vederko-263g"
+    },
+    {
+        "ID": "247978",
+        "Name": "Мороженое Коровка из Кореновки эскимо с печеньем 15%, 70г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "114",
+        "Old price": "114",
+        "Link": "https://online.metro-cc.ru/products/70g-morozh-eskimo-15-korovka-iz-korenovki-s-pechenem-bzmzh"
+    },
+    {
+        "ID": "137166",
+        "Name": "Мороженое Monterra Кокос-Шоколад, 263г",
+        "Brand": "MONTERRA",
+        "Price": "529",
+        "Old price": "529",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-monterra-kokos-shokolad-263g-bzmzh"
+    },
+    {
+        "ID": "420961",
+        "Name": "Мороженое Золотой стандарт Пломбир натуральный контейнер, 475г",
+        "Brand": "ЗОЛОТОЙ СТАНДАРТ",
+        "Price": "499",
+        "Old price": "499",
+        "Link": "https://online.metro-cc.ru/products/plombir-zolotoj-standart-naturalnyj-kontejner-500g-bzmzh"
+    },
+    {
+        "ID": "218295",
+        "Name": "Мороженое Brandice Эскимо Волшебные леденцы, 70г",
+        "Brand": "BRANDICE",
+        "Price": "162",
+        "Old price": "162",
+        "Link": "https://online.metro-cc.ru/products/70g-morozhenoe-eskimo-brandice-volshebnye-ledentsy-bzmzh"
+    },
+    {
+        "ID": "250067",
+        "Name": "Мороженое рожок Чистая Линия Сахарная трубочка ванильная с миндалем, 90г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "162",
+        "Old price": "162",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-rozhok-chistaya-liniya-saharnaya-trubochka-vanilnaya-s-mindalem-90g"
+    },
+    {
+        "ID": "221090",
+        "Name": "Мороженое Чистая Линия рожок фисташка, 110г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "169",
+        "Old price": "169",
+        "Link": "https://online.metro-cc.ru/products/110g-morozhenoe-rozhok-chistaya-liniya-fistashka-bzmzh"
+    },
+    {
+        "ID": "128228",
+        "Name": "Мороженое Магнат эскимо в шоколаде Фисташка - Малина, 70г",
+        "Brand": "МАГНАТ",
+        "Price": "153",
+        "Old price": "153",
+        "Link": "https://online.metro-cc.ru/products/magnat-fistashka-malina-eskimo-70g-bzmzh"
+    },
+    {
+        "ID": "66891",
+        "Name": "Мороженое Amore Альфонсо манго, 250г",
+        "Brand": "AMORE",
+        "Price": "429",
+        "Old price": "429",
+        "Link": "https://online.metro-cc.ru/products/amore-mango-alfonso-bez-zamenitelya-molochnyh-zhirov-270-g"
+    },
+    {
+        "ID": "648419",
+        "Name": "aro Мороженое шоколадное вафельный стаканчик, 70г",
+        "Brand": "ARO",
+        "Price": "19.09",
+        "Old price": "19.09",
+        "Link": "https://online.metro-cc.ru/products/aro-morozhenoe-shokoladnoe-vafelniy-stakanchik-70g"
+    },
+    {
+        "ID": "239870",
+        "Name": "Мороженое Русский Холод Юбилейное домашнее шоколадное, 1кг",
+        "Brand": "РУССКИЙ ХОЛОД",
+        "Price": "399",
+        "Old price": "399",
+        "Link": "https://online.metro-cc.ru/products/plombir-russkij-holod-yubilejnoe-shokoladnoe-flou-pak-1kg"
+    },
+    {
+        "ID": "218290",
+        "Name": "Мороженое протеиновое Айскро Ванильное 2%, 75г",
+        "Brand": "АЙСКРО",
+        "Price": "142",
+        "Old price": "142",
+        "Link": "https://online.metro-cc.ru/products/75g-morozhenoe-s-proteinom-2-ayskro-vanilnoe-bzmzh"
+    },
+    {
+        "ID": "128437",
+        "Name": "RIOBA Мороженое Малиновый сорбет, 75г",
+        "Brand": "RIOBA",
+        "Price": "111",
+        "Old price": "111",
+        "Link": "https://online.metro-cc.ru/products/75g-sorbet-rioba-malinovyj"
+    },
+    {
+        "ID": "250066",
+        "Name": "Мороженое Сэндвич Чистая Линия ванильное в печенье, 90г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "162",
+        "Old price": "162",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-sendvich-chistaya-liniya-vanilnoe-v-pechene-90g"
+    },
+    {
+        "ID": "100127",
+        "Name": "Мороженое Snickers сливочное c пастой из арахиса и карамелью, 340г",
+        "Brand": "SNICKERS",
+        "Price": "579",
+        "Old price": "579",
+        "Link": "https://online.metro-cc.ru/products/snickers-vedro-340g-bzmzh"
+    },
+    {
+        "ID": "239874",
+        "Name": "Мороженое Русский Холод Юбилейное ванильное, 1кг",
+        "Brand": "РУССКИЙ ХОЛОД",
+        "Price": "399",
+        "Old price": "399",
+        "Link": "https://online.metro-cc.ru/products/plombir-russkij-holod-yubilejnoe-vanilnoe-flou-pak-1kg"
+    },
+    {
+        "ID": "593211",
+        "Name": "Мороженое Sweet Moon Mochi Ice Cream сливочное в рисовой глазури с манго (35г х 8шт), 300г",
+        "Brand": "SWEET MOON",
+        "Price": "799",
+        "Old price": "799",
+        "Link": "https://online.metro-cc.ru/products/modzhi-iceumi-mochi-mango-v-upakovke-8h35g-bzmzh"
+    },
+    {
+        "ID": "69646",
+        "Name": "Мороженое Alpen Gold Эскимо, 58г",
+        "Brand": "ALPEN GOLD",
+        "Price": "114",
+        "Old price": "114",
+        "Link": "https://online.metro-cc.ru/products/alpen-gold-eskimo-58g-bzmzh"
+    },
+    {
+        "ID": "117169",
+        "Name": "Мороженое Чистая Линия Радуга ванильный рожок, 110г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "162",
+        "Old price": "162",
+        "Link": "https://online.metro-cc.ru/products/rozhok-chistaya-liniya-raduga-vanilnyj-bzmzh-110-g"
+    },
+    {
+        "ID": "128316",
+        "Name": "Мороженое Milka Эскимо Сливочное с лесными ягодами, 64г",
+        "Brand": "MILKA",
+        "Price": "144",
+        "Old price": "144",
+        "Link": "https://online.metro-cc.ru/products/64g-milka-lesnye-yagody-bzmzh"
+    },
+    {
+        "ID": "79254",
+        "Name": "Мороженое Milka Эскимо Ванильное в молочном шоколаде, 62г",
+        "Brand": "MILKA",
+        "Price": "139",
+        "Old price": "139",
+        "Link": "https://online.metro-cc.ru/products/eskimo-v-shokolade-milka-62-g"
+    },
+    {
+        "ID": "421531",
+        "Name": "Мороженое Чистая Линия Пломбир вафельный стаканчик, 80г",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "99.90",
+        "Old price": "99.90",
+        "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-vafelnyj-stakanchik-80g-bzmzh"
+    },
+    {
+        "ID": "519386",
+        "Name": "Мороженое Gelato Di natura молочное клубничное 1.575кг",
+        "Brand": "GELATO",
+        "Price": "1929",
+        "Old price": "1929",
+        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-klubnika-kontejner-15kg"
+    },
+    {
+        "ID": "243862",
+        "Name": "aro Мороженое Крем-брюле вафельный стаканчик, 70г",
+        "Brand": "ARO",
+        "Price": "19.09",
+        "Old price": "19.09",
+        "Link": "https://online.metro-cc.ru/products/70g-morozhenoe-6-aro-krem-bryule-vafst"
+    },
+    {
+        "ID": "499987",
+        "Name": "Мороженое Gelato Di Natura кофе, 1.575кг",
+        "Brand": "GELATO",
+        "Price": "1929",
+        "Old price": "1929",
+        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-kofe-kontejner-15kg"
+    },
+    {
+        "ID": "249117",
+        "Name": "Мороженое Amore Манго Альфонсо сорбет, 100мл",
+        "Brand": "AMORE",
+        "Price": "135",
+        "Old price": "135",
+        "Link": "https://online.metro-cc.ru/products/100g-sorbet-amore-mango-alfonso-naturalnyy-bzmzh"
+    },
+    {
+        "ID": "128360",
+        "Name": "Мороженое My Gelato Манго-имбирь сорбет, 90г",
+        "Brand": "MY GELATO",
+        "Price": "109",
+        "Old price": "129",
+        "Link": "https://online.metro-cc.ru/products/sorbet-my-gelato-mango-imbir-90g"
+    },
+    {
+        "ID": "249831",
+        "Name": "Мороженое Магнат эскимо в шоколаде Эйфория Маскарпоне-Голубика, 70г",
+        "Brand": "МАГНАТ",
+        "Price": "153",
+        "Old price": "153",
+        "Link": "https://online.metro-cc.ru/products/morozhenoe-eskimo-magnat-eyforiya-maskarpone-golubika-v-shokolade-8-70g"
+    },
+    {
+        "ID": "248831",
+        "Name": "Мороженое эскимо А.Ростагрокомплекс Клубника-базилик 15%, 65г",
+        "Brand": "А.РОСТАГРОКОМПЛЕКС",
+        "Price": "113",
+        "Old price": "113",
+        "Link": "https://online.metro-cc.ru/products/65g-morozh-eskimo-15-arostagrokompleks-klubnbazilik-bzmzh"
+    },
+    {
+        "ID": "128318",
+        "Name": "Мороженое 48 копеек Манго со сливками в вафельном стаканчике, 94г",
+        "Brand": "48 КОПЕЕК",
+        "Price": "116",
+        "Old price": "116",
+        "Link": "https://online.metro-cc.ru/products/94g-48-kopeek-mango-stakanchik-bzmzh"
+    },
+    {
+        "ID": "435950",
+        "Name": "aro Мороженое ванильное вафельный стаканчик, 70г",
+        "Brand": "ARO",
+        "Price": "19.09",
+        "Old price": "19.09",
+        "Link": "https://online.metro-cc.ru/products/vanilnoe-aro-vafelnyj-stakanchik-70g"
+    },
+    {
+        "ID": "109176",
         "Name": "Чай Айскро бруснично-ежевичный с шиповником замороженный, 150г",
+        "Brand": "АЙСКРО",
         "Price": "205",
         "Old price": "205",
         "Link": "https://online.metro-cc.ru/products/chaj-brusnichno-ezhevichnyj-ajskro-s-shipovnikom-shalfeem-badyanom-muskatnym-cvetom-zamorozhennyj-150-g"
     },
     {
-        "Name": "Мороженое My Gelato Горгонзола, 90г",
-        "Price": "109",
-        "Old price": "129",
-        "Link": "https://online.metro-cc.ru/products/my-gelato-gorgonzola-90g-bzmzh"
-    },
-    {
-        "Name": "Мороженое эскимо Bounty с мякотью кокоса 6%, 60г",
-        "Price": "127",
-        "Old price": "127",
-        "Link": "https://online.metro-cc.ru/products/60g-morozhenoe-eskimo-6-bounty-s-myakotyu-kokosa-bzmzh"
-    },
-    {
-        "Name": "Мороженое Коровка из Кореновки рожок с шоколадной крошкой 15%, 120г",
-        "Price": "133",
-        "Old price": "133",
-        "Link": "https://online.metro-cc.ru/products/120g-morozh-rozhok-15-korovka-iz-korenovki-s-shokolad-bzmzh"
-    },
-    {
-        "Name": "aro Мороженое ванильное вафельный стаканчик, 70г x 60 шт",
-        "Price": "1145.40",
-        "Old price": "1145.40",
-        "Link": "https://online.metro-cc.ru/products/v-vafelnom-stakanchike-aro-vanil-70g"
-    },
-    {
+        "ID": "611683",
         "Name": "Мороженое Gelato Di Natura молочное йогурт, 1.575кг",
+        "Brand": "GELATO",
         "Price": "1929",
         "Old price": "1929",
         "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-jogurt-kontejner-1575kg"
     },
     {
+        "ID": "499990",
+        "Name": "Мороженое Gelato Di Natura фисташковое, 1.575кг",
+        "Brand": "GELATO",
+        "Price": "1929",
+        "Old price": "1929",
+        "Link": "https://online.metro-cc.ru/products/plombir-gelato-di-natura-fistashka-kontejner-15kg"
+    },
+    {
+        "ID": "218288",
+        "Name": "Мороженое Айскро Голубика десерт растительный замороженный, 75г",
+        "Brand": "АЙСКРО",
+        "Price": "118",
+        "Old price": "118",
+        "Link": "https://online.metro-cc.ru/products/75g-desert-rastitelnyy-ayskro-golubika-zamorozhennyy"
+    },
+    {
+        "ID": "662188",
+        "Name": "Мороженое Вологодский пломбир на вареном сгущенном молоке в вафельном стаканчике, 100г",
+        "Brand": "ВОЛОГОДСКИЙ ПЛОМБИР",
+        "Price": "91.91",
+        "Old price": "91.91",
+        "Link": "https://online.metro-cc.ru/products/vologodskij-plombir-s-varenoj-sguschenkoj-100-g"
+    },
+    {
+        "ID": "218536",
+        "Name": "Мороженое Коровка из Кореновки ваниль-глазурь, 90г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "114",
+        "Old price": "114",
+        "Link": "https://online.metro-cc.ru/products/90g-morozhenoe-korovka-iz-korenovki-vanilglazur-bzmzh"
+    },
+    {
+        "ID": "247980",
+        "Name": "Мороженое Коровка из Кореновки Лакомка черная смородина 15%, 90г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "129",
+        "Old price": "129",
+        "Link": "https://online.metro-cc.ru/products/90g-morozh-15-korovka-iz-korenovki-lakomka-chern-smorod-bzmzh"
+    },
+    {
+        "ID": "128353",
+        "Name": "Мороженое My Gelato арахис-карамель, 90г",
+        "Brand": "MY GELATO",
+        "Price": "109",
+        "Old price": "129",
+        "Link": "https://online.metro-cc.ru/products/my-gelato-arahis-karamel-90g-bzmzh"
+    },
+    {
+        "ID": "247900",
+        "Name": "Мороженое Sunreme рожок черная смородина-мята 7%, 78г",
+        "Brand": "SUNREME",
+        "Price": "105",
+        "Old price": "105",
+        "Link": "https://online.metro-cc.ru/products/78g-morozhenoe-rozhok-7-sunreme-chernaya-smorodmyata-bzmzh"
+    },
+    {
+        "ID": "356152",
         "Name": "Мороженое Чистая Линия Российское Эскимо Пломбир, 80г",
-        "Price": "139",
-        "Old price": "139",
+        "Brand": "ЧИСТАЯ ЛИНИЯ",
+        "Price": "145",
+        "Old price": "145",
         "Link": "https://online.metro-cc.ru/products/plombir-chistaya-liniya-rossijskoe-briket-80g-bzmzh"
+    },
+    {
+        "ID": "100126",
+        "Name": "Мороженое Mars с карамелью и глазурью, 300г",
+        "Brand": "MARS",
+        "Price": "579",
+        "Old price": "579",
+        "Link": "https://online.metro-cc.ru/products/mars-vederko-300g-bzmzh"
+    },
+    {
+        "ID": "248828",
+        "Name": "Мороженое эскимо Bounty с мякотью кокоса 6%, 60г",
+        "Brand": "BOUNTY",
+        "Price": "127",
+        "Old price": "127",
+        "Link": "https://online.metro-cc.ru/products/60g-morozhenoe-eskimo-6-bounty-s-myakotyu-kokosa-bzmzh"
+    },
+    {
+        "ID": "226259",
+        "Name": "Мороженое Вологодский пломбир Эскимо манго в соковой глазури из сока манго, 60г",
+        "Brand": "ВОЛОГОДСКИЙ ПЛОМБИР",
+        "Price": "93.90",
+        "Old price": "93.90",
+        "Link": "https://online.metro-cc.ru/products/60g-morozhen-vologodskiy-plombir-aysberri-mango-bzmzh"
+    },
+    {
+        "ID": "248832",
+        "Name": "Мороженое эскимо А.Ростагрокомплекс Манго-кокос 15%, 65г",
+        "Brand": "А.РОСТАГРОКОМПЛЕКС",
+        "Price": "113",
+        "Old price": "113",
+        "Link": "https://online.metro-cc.ru/products/65g-morozh-eskimo-15-arostagrokompleks-mangokokos-bzmzh"
+    },
+    {
+        "ID": "248830",
+        "Name": "Мороженое Snickers арахис с карамелью рожок, 69г",
+        "Brand": "SNICKERS",
+        "Price": "133",
+        "Old price": "133",
+        "Link": "https://online.metro-cc.ru/products/69g-morozhenoe-rozhok-6-snickers-karamelarahis-bzmzh"
+    },
+    {
+        "ID": "128359",
+        "Name": "Мороженое My Gelato Клубника-базилик сорбет, 90г",
+        "Brand": "MY GELATO",
+        "Price": "109",
+        "Old price": "129",
+        "Link": "https://online.metro-cc.ru/products/sorbet-my-gelato-klubnika-bazilik-90g"
+    },
+    {
+        "ID": "662740",
+        "Name": "aro Мороженое ванильное вафельный стаканчик, 70г x 60 шт",
+        "Brand": "ARO",
+        "Price": "1145.40",
+        "Old price": "1145.40",
+        "Link": "https://online.metro-cc.ru/products/v-vafelnom-stakanchike-aro-vanil-70g"
+    },
+    {
+        "ID": "128358",
+        "Name": "Мороженое My Gelato Горгонзола, 90г",
+        "Brand": "MY GELATO",
+        "Price": "109",
+        "Old price": "129",
+        "Link": "https://online.metro-cc.ru/products/my-gelato-gorgonzola-90g-bzmzh"
+    },
+    {
+        "ID": "247973",
+        "Name": "Мороженое Коровка из Кореновки рожок с шоколадной крошкой 15%, 120г",
+        "Brand": "КОРОВКА ИЗ КОРЕНОВКИ",
+        "Price": "133",
+        "Old price": "133",
+        "Link": "https://online.metro-cc.ru/products/120g-morozh-rozhok-15-korovka-iz-korenovki-s-shokolad-bzmzh"
     }
 ]

@@ -1,4 +1,6 @@
 import re
+from time import perf_counter
+
 import requests
 import json
 import fake_useragent
@@ -128,14 +130,15 @@ def get_data(sp, pm, cs, hs, results):
                     pass
             except:
                 regular_price = el_price
-            # brand = get_brand(el_link, pm, cs, hs)
+            brand = get_brand(el_link, pm, cs, hs)
             el_price = re.sub(r'[^\d.]', '', el_price)
             regular_price = re.sub(r'[^\d.]', '', regular_price)
-            print(f"ID: {id_el}, Name: {name}, Price: {el_price}, Old price: {regular_price}, Link: {el_link}")
-            # print(f"ID: {id_el}, Name: {name}, Brand: {brand}, Price: {el_price}, Old price: {regular_price}, Link: {el_link}")
+            # print(f"ID: {id_el}, Name: {name}, Price: {el_price}, Old price: {regular_price}, Link: {el_link}")
+            print(f"ID: {id_el}, Name: {name}, Brand: {brand}, Price: {el_price}, Old price: {regular_price}, Link: {el_link}")
             results.append({
+                "ID": id_el,
                 "Name": name,
-                # "Brand": brand,
+                "Brand": brand,
                 "Price": el_price,
                 "Old price": regular_price,
                 "Link": el_link
@@ -176,4 +179,7 @@ def main():
 
 
 if __name__ == '__main__':
+    start = perf_counter()
     main()
+    print(f"time: {perf_counter() - start}")
+    # time: 541.4330501000004
